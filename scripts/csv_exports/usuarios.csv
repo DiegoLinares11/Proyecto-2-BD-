@@ -1,0 +1,111 @@
+﻿_id,nombre,email,ubicacion,fechaRegistro,edad,genero
+67f9ed3f36a48ec062a03cd8,Matías Nicolás Madrigal,frocha@example.com,"{'type': 'Point', 'coordinates': [66.768262, 79.0742815]}",2024-03-28T23:54:22.837000,50,femenino
+67f9ed3f36a48ec062a03cd9,Heliodoro Alberto Company Garcia,walmagro@example.org,"{'type': 'Point', 'coordinates': [-161.251431, -20.74796]}",2024-10-30T03:23:53.030000,66,masculino
+67f9ed3f36a48ec062a03cda,Adelaida Marqués Montserrat,wvalverde@example.com,"{'type': 'Point', 'coordinates': [-168.019967, 10.5125565]}",2024-11-11T21:07:06.350000,29,masculino
+67f9ed3f36a48ec062a03cdb,Toni Emiliano Lobato Lara,achico@example.org,"{'type': 'Point', 'coordinates': [150.152482, 46.6889175]}",2021-01-09T04:12:49.863000,46,femenino
+67f9ed3f36a48ec062a03cdc,Margarita Perlita Montoya Leon,ohuguet@example.org,"{'type': 'Point', 'coordinates': [28.93268, 2.106512]}",2021-06-23T00:42:27.117000,60,femenino
+67f9ed3f36a48ec062a03cdd,Olimpia Goñi Bravo,vlloret@example.com,"{'type': 'Point', 'coordinates': [-80.715247, 50.048921]}",2022-04-04T20:59:19.262000,56,masculino
+67f9ed3f36a48ec062a03cde,Jennifer Vidal Moreno,calderonmarianela@example.com,"{'type': 'Point', 'coordinates': [-76.529559, 64.014359]}",2022-06-01T18:42:21.619000,29,femenino
+67f9ed3f36a48ec062a03cdf,Chuy Higueras,teofiloviana@example.com,"{'type': 'Point', 'coordinates': [-164.070898, 76.0085205]}",2024-04-24T01:24:41.488000,46,femenino
+67f9ed3f36a48ec062a03ce0,Pili Cortés Agustín,tamarabarranco@example.com,"{'type': 'Point', 'coordinates': [-74.448022, 64.065247]}",2024-08-23T14:34:21.162000,46,femenino
+67f9ed3f36a48ec062a03ce1,Alejandra Salud Gallego Jurado,santosmoreno@example.net,"{'type': 'Point', 'coordinates': [132.626918, 6.292351]}",2024-04-08T08:39:10.596000,21,femenino
+67f9ed3f36a48ec062a03ce2,Azeneth Conesa Nicolau,esther68@example.net,"{'type': 'Point', 'coordinates': [33.930814, -56.0440555]}",2023-10-16T08:44:18.048000,47,femenino
+67f9ed3f36a48ec062a03ce3,Chucho Rueda Caparrós,icaceres@example.net,"{'type': 'Point', 'coordinates': [104.797173, 0.15238]}",2025-03-02T07:37:40.667000,48,femenino
+67f9ed3f36a48ec062a03ce4,Candela Jesusa Arteaga Mur,utome@example.net,"{'type': 'Point', 'coordinates': [10.321886, -61.5809865]}",2023-07-23T02:47:53.599000,34,femenino
+67f9ed3f36a48ec062a03ce5,Paula Lobo Bolaños,rantunez@example.net,"{'type': 'Point', 'coordinates': [105.394222, -11.6625285]}",2022-11-26T11:38:48.333000,35,masculino
+67f9ed3f36a48ec062a03ce6,Miriam del Téllez,encarnacioncriado@example.com,"{'type': 'Point', 'coordinates': [-71.786144, -88.184522]}",2022-07-01T12:18:38.264000,39,femenino
+67f9ed3f36a48ec062a03ce7,Evelia Orozco Ferrando,albano91@example.net,"{'type': 'Point', 'coordinates': [-133.054184, 52.126079]}",2020-05-27T23:59:25.220000,47,femenino
+67f9ed3f36a48ec062a03ce8,Blanca Blázquez,agustina80@example.net,"{'type': 'Point', 'coordinates': [-7.621943, -82.938283]}",2022-12-30T16:38:58.076000,42,femenino
+67f9ed3f36a48ec062a03ce9,Ramiro Uría Zamorano,cloeortiz@example.net,"{'type': 'Point', 'coordinates': [128.76402, 57.294835]}",2023-11-09T17:45:26.529000,64,masculino
+67f9ed3f36a48ec062a03cea,Marino Poza Luján,angelino61@example.net,"{'type': 'Point', 'coordinates': [-160.341071, 78.1947245]}",2020-12-30T15:12:44.066000,27,femenino
+67f9ed3f36a48ec062a03ceb,Wilfredo Paz Lledó,maria-carmenelorza@example.com,"{'type': 'Point', 'coordinates': [71.080595, -48.552535]}",2022-02-05T10:48:55.405000,26,masculino
+67f9ed3f36a48ec062a03cec,Cayetana Palau Abella,arcoricardo@example.net,"{'type': 'Point', 'coordinates': [74.084952, -10.5802995]}",2020-02-10T15:22:19.872000,48,femenino
+67f9ed3f36a48ec062a03ced,Concha Blanco Aroca,kribas@example.com,"{'type': 'Point', 'coordinates': [50.903144, 83.8498885]}",2023-07-11T14:12:23.579000,36,masculino
+67f9ed3f36a48ec062a03cee,Luna Mariana Blazquez Espejo,herminiacabello@example.net,"{'type': 'Point', 'coordinates': [-81.216709, 36.310387]}",2022-03-17T10:32:42.113000,58,femenino
+67f9ed3f36a48ec062a03cef,Tristán Riba Canals,hcid@example.org,"{'type': 'Point', 'coordinates': [-90.684317, -71.861322]}",2020-01-06T09:45:43.031000,25,masculino
+67f9ed3f36a48ec062a03cf0,Montserrat Carbó Valls,prudenciaadan@example.org,"{'type': 'Point', 'coordinates': [139.444471, 2.841173]}",2020-04-25T18:53:20.500000,27,masculino
+67f9ed3f36a48ec062a03cf1,Adelardo del Rius,rubiojuan-manuel@example.net,"{'type': 'Point', 'coordinates': [117.388548, 32.1440835]}",2024-05-27T18:08:36.961000,42,masculino
+67f9ed3f36a48ec062a03cf2,Abraham Isern,burgosvictoria@example.net,"{'type': 'Point', 'coordinates': [122.526425, 78.948579]}",2022-06-21T23:22:19.580000,54,masculino
+67f9ed3f36a48ec062a03cf3,Liliana Abril Catalán,nilomorillo@example.net,"{'type': 'Point', 'coordinates': [52.316809, 51.8755735]}",2022-04-09T22:25:35.345000,20,masculino
+67f9ed3f36a48ec062a03cf4,Isaías Gutierrez Puig,emigdiooliveras@example.org,"{'type': 'Point', 'coordinates': [-114.490199, 10.7729385]}",2021-01-11T09:41:51.013000,70,femenino
+67f9ed3f36a48ec062a03cf5,Máximo Ayuso-Rey,berrocaljose-luis@example.net,"{'type': 'Point', 'coordinates': [-178.166336, -51.4612565]}",2021-12-22T16:55:01.680000,32,femenino
+67f9ed3f36a48ec062a03cf6,Roldán Patiño,dmarin@example.net,"{'type': 'Point', 'coordinates': [-134.854936, 69.984197]}",2023-12-17T15:39:19.937000,59,masculino
+67f9ed3f36a48ec062a03cf7,Isaías Herranz Guillén,severoduran@example.net,"{'type': 'Point', 'coordinates': [87.465955, 56.1923035]}",2024-08-07T09:13:48.140000,53,femenino
+67f9ed3f36a48ec062a03cf8,Pastora Medina,griselda78@example.com,"{'type': 'Point', 'coordinates': [-13.231752, 71.7286465]}",2024-09-02T05:29:51.376000,43,masculino
+67f9ed3f36a48ec062a03cf9,Benigna Cantero Albero,albinorobledo@example.com,"{'type': 'Point', 'coordinates': [-168.079307, 24.0135475]}",2024-04-17T23:18:09.118000,44,femenino
+67f9ed3f36a48ec062a03cfa,Ignacio Conde-Tirado,ursularossello@example.net,"{'type': 'Point', 'coordinates': [-23.564038, -45.4697585]}",2023-03-20T10:41:26.215000,67,masculino
+67f9ed3f36a48ec062a03cfb,Laura Olmo Cano,mateosjose@example.net,"{'type': 'Point', 'coordinates': [-95.042246, 48.1856605]}",2020-09-30T15:51:50.793000,49,femenino
+67f9ed3f36a48ec062a03cfc,Ascensión Neira Acevedo,rvillena@example.org,"{'type': 'Point', 'coordinates': [-46.405144, 33.164041]}",2022-10-07T02:09:32.675000,67,masculino
+67f9ed3f36a48ec062a03cfd,Ileana Acevedo Montserrat,rlledo@example.net,"{'type': 'Point', 'coordinates': [-35.013956, -83.469073]}",2021-08-12T08:35:11.030000,63,femenino
+67f9ed3f36a48ec062a03cfe,Juan Bautista Recio Muñoz,loidasantamaria@example.com,"{'type': 'Point', 'coordinates': [130.308735, 67.955616]}",2022-11-05T10:40:21.339000,35,masculino
+67f9ed3f36a48ec062a03cff,Artemio Gordillo Valls,vruano@example.org,"{'type': 'Point', 'coordinates': [-5.757481, -16.5542425]}",2024-11-01T00:48:16.072000,38,femenino
+67f9ed3f36a48ec062a03d00,Natalia Bustos Arana,lucilatenorio@example.org,"{'type': 'Point', 'coordinates': [74.833219, -43.301858]}",2021-02-21T20:58:53.785000,39,masculino
+67f9ed3f36a48ec062a03d01,Estrella Gertrudis Clemente Fajardo,zabad@example.net,"{'type': 'Point', 'coordinates': [131.064529, -29.3485025]}",2022-08-18T19:43:10.710000,54,femenino
+67f9ed3f36a48ec062a03d02,Sabas Muro Cabello,gervasiogarzon@example.net,"{'type': 'Point', 'coordinates': [-12.96034, 16.5297835]}",2024-05-23T01:47:11.153000,65,masculino
+67f9ed3f36a48ec062a03d03,Adelia Amat,landabonifacio@example.com,"{'type': 'Point', 'coordinates': [118.184888, -47.2738395]}",2025-03-09T13:10:35.136000,52,masculino
+67f9ed3f36a48ec062a03d04,Jose Luis Fabregat Pedrosa,veronicacasares@example.net,"{'type': 'Point', 'coordinates': [-148.85077, 65.8899705]}",2025-01-04T17:45:41.965000,45,femenino
+67f9ed3f36a48ec062a03d05,Esteban Contreras Somoza,escobarabraham@example.org,"{'type': 'Point', 'coordinates': [-80.203431, 52.1514615]}",2022-09-23T11:45:32.537000,30,femenino
+67f9ed3f36a48ec062a03d06,Emiliano Carbajo,gamador@example.org,"{'type': 'Point', 'coordinates': [-136.686604, -86.909491]}",2025-02-10T12:07:24.018000,69,femenino
+67f9ed3f36a48ec062a03d07,Gabriel Angulo Escamilla,marcelo34@example.com,"{'type': 'Point', 'coordinates': [77.071126, 4.779217]}",2020-03-26T05:25:43.266000,33,masculino
+67f9ed3f36a48ec062a03d08,Fabián del Roura,reina34@example.com,"{'type': 'Point', 'coordinates': [-10.095538, -36.63735]}",2022-06-23T16:28:03.776000,68,femenino
+67f9ed3f36a48ec062a03d09,Néstor Fuster Querol,xoliver@example.org,"{'type': 'Point', 'coordinates': [69.967226, 41.813211]}",2022-04-15T02:07:40.656000,38,masculino
+67f9ed3f36a48ec062a03d0a,Cecilio Ledesma Vergara,bpedro@example.com,"{'type': 'Point', 'coordinates': [-120.034859, 81.298105]}",2021-02-06T05:36:13.064000,54,femenino
+67f9ed3f36a48ec062a03d0b,Melania Lopez Marcos,maria-luisabejarano@example.org,"{'type': 'Point', 'coordinates': [-146.0237, 44.0892655]}",2020-04-11T19:41:42.179000,36,masculino
+67f9ed3f36a48ec062a03d0c,Graciano Montesinos Mendizábal,cecilioandreu@example.net,"{'type': 'Point', 'coordinates': [14.815975, 81.739591]}",2023-08-12T18:43:02.807000,22,masculino
+67f9ed3f36a48ec062a03d0d,Ana Belén Benitez Caro,pascualmontenegro@example.net,"{'type': 'Point', 'coordinates': [-17.766434, 22.035238]}",2022-09-05T03:02:50.428000,62,masculino
+67f9ed3f36a48ec062a03d0e,Aurelia Castelló Bertrán,ealiaga@example.org,"{'type': 'Point', 'coordinates': [173.65758, 38.2567235]}",2024-07-28T07:54:51.028000,48,masculino
+67f9f28aeb631ef2e63ade52,Adela Marti Valero,olivemaxi@example.net,"{'type': 'Point', 'coordinates': [113.005284, 27.165625]}",2023-04-16T08:09:18.548000,25,masculino
+67f9f28aeb631ef2e63ade53,Rufino de Gimeno,juliamaristela@example.com,"{'type': 'Point', 'coordinates': [35.059601, 42.9413505]}",2023-02-22T19:13:22.050000,26,femenino
+67f9f28aeb631ef2e63ade54,Ariel Agustín,tpena@example.net,"{'type': 'Point', 'coordinates': [82.747729, -62.1645585]}",2024-11-06T11:42:12.194000,55,masculino
+67f9f28aeb631ef2e63ade55,Nicanor Fabregat Carnero,rosariougarte@example.com,"{'type': 'Point', 'coordinates': [41.945507, 79.260727]}",2021-11-28T23:55:15.972000,32,femenino
+67f9f28aeb631ef2e63ade56,Pastora Egea Llabrés,celestinogil@example.org,"{'type': 'Point', 'coordinates': [-56.388693, 5.656855]}",2021-12-12T20:19:09.417000,62,masculino
+67f9f28aeb631ef2e63ade57,Aarón Salmerón Garzón,marcial43@example.org,"{'type': 'Point', 'coordinates': [-176.42655, 72.319237]}",2023-04-27T20:25:46.687000,55,masculino
+67f9f28aeb631ef2e63ade58,Amado Ayllón Goicoechea,villalbaciro@example.net,"{'type': 'Point', 'coordinates': [25.863136, 25.8505645]}",2023-02-14T15:04:57.760000,22,femenino
+67f9f28aeb631ef2e63ade59,Che Gibert Aranda,palauluis@example.org,"{'type': 'Point', 'coordinates': [-46.271302, 85.5849805]}",2021-05-26T09:57:40.868000,38,masculino
+67f9f28aeb631ef2e63ade5a,Fermín Arroyo Santos,apolonia01@example.org,"{'type': 'Point', 'coordinates': [64.830502, 1.555075]}",2024-07-26T03:27:09.607000,61,femenino
+67f9f28aeb631ef2e63ade5b,Luis Miguel Riba Santamaría,balduinomoliner@example.net,"{'type': 'Point', 'coordinates': [38.135863, 69.091413]}",2024-03-03T14:23:29.746000,36,femenino
+67f9f28aeb631ef2e63ade5c,Adora Campo Amaya,scerdan@example.com,"{'type': 'Point', 'coordinates': [135.63878, -46.7588225]}",2022-03-18T16:27:26.235000,29,masculino
+67f9f28aeb631ef2e63ade5d,Simón Pedrero Sancho,leonciollorente@example.com,"{'type': 'Point', 'coordinates': [40.32091, -72.4714225]}",2022-04-10T04:58:00.528000,31,masculino
+67f9f28aeb631ef2e63ade5e,Carlito Pomares Jordán,umayol@example.net,"{'type': 'Point', 'coordinates': [-135.522081, -45.4564405]}",2020-03-21T02:05:25.094000,45,femenino
+67f9f28aeb631ef2e63ade5f,Martin Espinosa Mur,macario23@example.net,"{'type': 'Point', 'coordinates': [133.8042, 78.198046]}",2024-01-28T08:18:07.055000,59,femenino
+67f9f28aeb631ef2e63ade60,Teodoro Manzanares Avilés,linaquevedo@example.org,"{'type': 'Point', 'coordinates': [-85.519282, -58.357605]}",2024-08-21T08:25:40.830000,30,masculino
+67f9f28aeb631ef2e63ade61,Raúl Rómulo Soto Muñoz,lferrandez@example.com,"{'type': 'Point', 'coordinates': [-94.5249, -14.9273435]}",2022-05-06T06:04:08.729000,32,femenino
+67f9f28aeb631ef2e63ade62,Marc Garcés Ramírez,pedro99@example.com,"{'type': 'Point', 'coordinates': [-130.27005, 80.216335]}",2020-01-15T17:26:06.819000,67,masculino
+67f9f28aeb631ef2e63ade63,Marita Criado Campos,samanta96@example.net,"{'type': 'Point', 'coordinates': [-72.06356, -46.4742685]}",2024-12-22T12:08:25.477000,44,femenino
+67f9f28aeb631ef2e63ade64,Azucena Sedano Real,vazquezaurora@example.org,"{'type': 'Point', 'coordinates': [-15.835975, 10.391252]}",2023-06-08T12:30:21.055000,61,femenino
+67f9f28aeb631ef2e63ade65,Francisco Jose Serna Espinosa,ochoamarciano@example.org,"{'type': 'Point', 'coordinates': [21.648403, 27.036888]}",2023-05-06T09:32:01.818000,68,femenino
+67f9f28aeb631ef2e63ade66,Tomás Arranz,dan47@example.com,"{'type': 'Point', 'coordinates': [-18.541862, -55.2567165]}",2021-08-31T09:26:42.367000,61,masculino
+67f9f28aeb631ef2e63ade67,Federico Pulido Quintero,manzanaresdaniel@example.net,"{'type': 'Point', 'coordinates': [75.901634, -32.480745]}",2023-12-04T12:57:38.306000,38,masculino
+67f9f28aeb631ef2e63ade68,Paola Virginia Vallejo Ferrández,isidroangel@example.com,"{'type': 'Point', 'coordinates': [-97.519183, 72.4875745]}",2021-11-21T01:16:05.131000,42,femenino
+67f9f28aeb631ef2e63ade69,Jacobo Óscar Pascual Burgos,llabresmoises@example.net,"{'type': 'Point', 'coordinates': [74.967209, 18.7010585]}",2024-10-07T08:57:11.094000,43,femenino
+67f9f28aeb631ef2e63ade6a,Aurelia Morata-Vera,vallsafrica@example.com,"{'type': 'Point', 'coordinates': [175.153538, -43.9501795]}",2023-06-19T00:51:31.928000,26,femenino
+67f9f28aeb631ef2e63ade6b,Domingo Roda Sevillano,sanchohigueras@example.com,"{'type': 'Point', 'coordinates': [89.608528, 50.956771]}",2022-07-28T07:48:57.584000,60,masculino
+67f9f28aeb631ef2e63ade6c,Benito del Díaz,agata64@example.org,"{'type': 'Point', 'coordinates': [-68.132148, 62.9533825]}",2020-01-02T06:36:02.294000,34,femenino
+67f9f28aeb631ef2e63ade6d,Susanita Morera Galvez,mercedes78@example.net,"{'type': 'Point', 'coordinates': [42.904249, -62.8880865]}",2022-01-29T14:36:35.342000,47,masculino
+67f9f28aeb631ef2e63ade6e,Consuela Barros,martalozano@example.com,"{'type': 'Point', 'coordinates': [-99.149055, -34.071942]}",2022-08-25T09:45:23.720000,29,masculino
+67f9f28aeb631ef2e63ade6f,Sol Tamayo Leal,jcanet@example.com,"{'type': 'Point', 'coordinates': [-160.036509, 1.7356295]}",2025-01-03T20:35:54.412000,29,femenino
+67f9f28aeb631ef2e63ade70,Ceferino Alemany Báez,ndomenech@example.com,"{'type': 'Point', 'coordinates': [-94.341842, -81.8010445]}",2021-05-14T23:19:21.445000,36,masculino
+67f9f28aeb631ef2e63ade71,Inocencio Riba Rubio,pancho49@example.org,"{'type': 'Point', 'coordinates': [128.983231, 9.8354035]}",2022-04-14T18:37:05.126000,49,masculino
+67f9f28aeb631ef2e63ade72,Héctor Vallejo Leiva,mohamedriera@example.org,"{'type': 'Point', 'coordinates': [124.442569, -39.290388]}",2021-03-23T21:04:27.580000,65,masculino
+67f9f28aeb631ef2e63ade73,Bienvenida Herrera Sobrino,olucena@example.org,"{'type': 'Point', 'coordinates': [56.657768, 81.986496]}",2021-06-27T08:03:21.872000,57,femenino
+67f9f28aeb631ef2e63ade74,Isidora de Gracia,riveroaristides@example.net,"{'type': 'Point', 'coordinates': [-89.340258, -73.5435255]}",2021-01-18T08:27:16.472000,48,femenino
+67f9f28aeb631ef2e63ade75,Reyna Rojas,vera37@example.org,"{'type': 'Point', 'coordinates': [134.910644, 45.124413]}",2022-12-10T07:08:10.775000,58,masculino
+67f9f28aeb631ef2e63ade76,Severino Arcos Serna,petronapeiro@example.org,"{'type': 'Point', 'coordinates': [83.783248, -12.35674]}",2022-08-24T02:13:54.875000,44,masculino
+67f9f28aeb631ef2e63ade77,Galo Cruz Cadenas,cochoa@example.org,"{'type': 'Point', 'coordinates': [-159.642562, 3.2848255]}",2023-01-24T02:56:25.571000,26,femenino
+67f9f28aeb631ef2e63ade78,Cipriano Tomás Almazán,angelina02@example.com,"{'type': 'Point', 'coordinates': [141.917652, -87.149721]}",2021-05-14T08:14:17.368000,37,masculino
+67f9f28aeb631ef2e63ade79,Rosa Barceló Castells,barrerasusana@example.com,"{'type': 'Point', 'coordinates': [35.401662, 10.0746295]}",2022-06-21T03:19:48.947000,40,femenino
+67f9f28aeb631ef2e63ade7a,Herminia Sol Cadenas Luz,pia06@example.net,"{'type': 'Point', 'coordinates': [166.951715, -52.853568]}",2025-03-14T15:25:16.077000,19,masculino
+67f9f28aeb631ef2e63ade7b,Salomé de Exposito,abellanreyes@example.net,"{'type': 'Point', 'coordinates': [-86.88004, -69.6253525]}",2024-09-07T19:29:47.457000,37,femenino
+67f9f28aeb631ef2e63ade7c,Cándida Patiño Mendoza,juanitocarretero@example.com,"{'type': 'Point', 'coordinates': [-11.542737, -46.953975]}",2024-02-17T19:09:33.219000,51,femenino
+67f9f28aeb631ef2e63ade7d,Juan Francisco Asensio,jose-luis84@example.org,"{'type': 'Point', 'coordinates': [41.303817, 13.9462375]}",2023-09-09T23:22:21.699000,21,femenino
+67f9f28aeb631ef2e63ade7e,Santiago de Cabanillas,hectorpedro@example.org,"{'type': 'Point', 'coordinates': [-177.2902, -6.727726]}",2020-08-17T10:28:10.108000,62,femenino
+67f9f28aeb631ef2e63ade7f,Marcela del Iglesia,maria-belen26@example.net,"{'type': 'Point', 'coordinates': [170.213322, 57.49156]}",2021-12-25T14:38:50.873000,23,femenino
+67f9f28aeb631ef2e63ade80,Regina Salazar Agustín,gaston53@example.net,"{'type': 'Point', 'coordinates': [-46.555096, -9.4907775]}",2023-05-09T16:17:32.807000,35,masculino
+67f9f28aeb631ef2e63ade81,Valerio Miguel Carretero Gomis,marta34@example.com,"{'type': 'Point', 'coordinates': [-165.999609, 52.0725295]}",2024-11-14T13:18:05.743000,64,masculino
+67f9f28aeb631ef2e63ade82,Rosario Casanova Hoz,npinilla@example.com,"{'type': 'Point', 'coordinates': [79.50127, 35.4926395]}",2020-05-11T02:24:24.865000,20,masculino
+67f9f28aeb631ef2e63ade83,Valeria Dávila-Madrid,brunilda75@example.com,"{'type': 'Point', 'coordinates': [-143.228031, 24.121461]}",2024-06-23T06:30:57.817000,63,masculino
+67f9f28aeb631ef2e63ade84,Quique Martinez Badía,ddelgado@example.org,"{'type': 'Point', 'coordinates': [145.678391, 23.3829495]}",2024-10-25T13:40:45.986000,53,femenino
+67f9f28aeb631ef2e63ade85,Saturnina Báez Alegria,aaron22@example.net,"{'type': 'Point', 'coordinates': [109.667226, -18.386644]}",2023-04-02T12:28:30.779000,60,masculino
+67f9f28aeb631ef2e63ade86,Glauco Galán-Vergara,adelaida73@example.com,"{'type': 'Point', 'coordinates': [-148.520129, 89.3444415]}",2025-02-20T21:07:46.738000,52,masculino
+67f9f28aeb631ef2e63ade87,Sara Vallejo Carbó,primitivobarba@example.com,"{'type': 'Point', 'coordinates': [7.817228, 67.548307]}",2021-09-13T06:41:20.672000,32,femenino
+67f9f28aeb631ef2e63ade88,Fidel Pedraza Donaire,oruiz@example.com,"{'type': 'Point', 'coordinates': [171.791854, 15.308471]}",2021-02-05T18:40:20.609000,60,masculino

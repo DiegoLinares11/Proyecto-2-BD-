@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 import random
 import os
 from dotenv import load_dotenv
+import pandas as pd
 
 load_dotenv()
 fake = Faker('es_ES')
@@ -236,3 +237,39 @@ promociones_col.create_index([("fechaInicio", 1), ("fechaFin", 1)])
 
 # Nuevo índice para tiempo de preparación en órdenes
 ordenes_col.create_index([("fechaInicioPreparacion", 1), ("fechaEntrega", 1)])
+
+
+# Lista de colecciones a exportar
+colecciones = {
+    "usuarios": usuarios_col,
+    "restaurantes": restaurantes_col,
+    "menu": menu_col,
+    "ordenes": ordenes_col,
+    "reseñas": reseñas_col,
+    "pagos": pagos_col,
+    "promociones": promociones_col
+}
+
+# Directorio donde guardar los CSV
+directorio_salida = "csv_exports"
+os.makedirs(directorio_salida, exist_ok=True)
+
+for nombre, coleccion in colecciones.items():
+    documentos = list(coleccion.find())
+    if documentos:
+        # Convertir ObjectId a string
+        for doc in documentos:
+            doc["_id"] = str(doc["_id"])
+            for k, v in doc.items():
+                if isinstance(v, dict) and 'type' in v and 'coordinates' in v:
+                    doc[k] = str(v)  # Convierte GeoJSON a string para el CSV
+                elif isinstance(v, list):
+                    doc[k] = str(v)
+                elif isinstance(v, datetime):
+                    doc[k] = v.isoformat()
+        # Guardar en CSV
+        df = pd.DataFrame(documentos)
+        df.to_csv(f"{directorio_salida}/{nombre}.csv", index=False, encoding='utf-8-sig')
+        print(f" Exportado {nombre} a {directorio_salida}/{nombre}.csv")
+    else:
+        print(f" La colección {nombre} está vacía.")
