@@ -5,12 +5,12 @@ import random
 import os
 from dotenv import load_dotenv
 
-load_dotenv()  
-fake = Faker('es_ES')  
+load_dotenv()
+fake = Faker('es_ES')
 
 # Conexión a Atlas
 client = MongoClient(os.getenv("MONGODB_URI"))
-db = client["restaurante"]  
+db = client["restaurante"]
 
 # Colecciones
 usuarios_col = db["usuarios"]
@@ -19,9 +19,10 @@ menu_col = db["menu"]
 ordenes_col = db["ordenes"]
 reseñas_col = db["reseñas"]
 pagos_col = db["pagos"]
+promociones_col = db["promociones"]  # NEW Colección de promociones
 
-# 1. Generar Usuarios (50 usuarios)
-def generar_usuarios(n=50):
+# 1. Generar Usuarios (MODIFIED con datos demográficos)
+def generar_usuarios(n=55):
     usuarios = []
     for _ in range(n):
         usuario = {
@@ -29,15 +30,19 @@ def generar_usuarios(n=50):
             "email": fake.email(),
             "ubicacion": {
                 "type": "Point",
-                "coordinates": [fake.longitude(), fake.latitude()]
+                "coordinates": [float(fake.longitude()), float(fake.latitude())]
             },
-            "fechaRegistro": fake.date_time_this_decade()
+            "fechaRegistro": fake.date_time_this_decade(),
+            "edad": random.randint(18, 70),  # NEW
+            "genero": random.choice(["masculino", "femenino"])  # NEW
         }
         usuarios.append(usuario)
     usuarios_col.insert_many(usuarios)
 
-# 2. Generar Restaurantes (25 restaurantes)
-def generar_restaurantes(n=25):
+# 2. Generar Restaurantes (MODIFIED con categorías estandarizadas)
+CATEGORIAS = ["italiana", "mexicana", "vegetariana", "rapida", "asiatica", "postres"]  
+
+def generar_restaurantes(n=20):
     restaurantes = []
     for _ in range(n):
         restaurante = {
@@ -45,17 +50,16 @@ def generar_restaurantes(n=25):
             "direccion": fake.address(),
             "ubicacion": {
                 "type": "Point",
-                "coordinates": [fake.longitude(), fake.latitude()]
+                "coordinates": [float(fake.longitude()), float(fake.latitude())]
             },
-            "categoria": random.sample(["italiana", "mexicana", "vegetariana", "rapida"], 2),
+            "categoria": random.sample(CATEGORIAS, 2),  # MODIFIED Usa lista controlada
             "menu": [],
             "createdAt": fake.date_time_this_year()
         }
         restaurantes.append(restaurante)
     restaurantes_col.insert_many(restaurantes)
 
-
-# 3. Generar Menú (5-10 ítems por restaurante)
+# 3. Generar Menú (MODIFIED con más tags)
 def generar_menu():
     restaurantes = list(restaurantes_col.find())
     for restaurante in restaurantes:
@@ -67,31 +71,50 @@ def generar_menu():
                 "precio": round(random.uniform(50, 350), 2),
                 "disponible": random.choice([True, False]),
                 "restaurant_id": restaurante["_id"],
-                "tags": random.sample(["vegetariano", "picante", "gluten-free"], 2)
+                "tags": random.sample(["vegetariano", "picante", "gluten-free", "vegano", "bajo en calorías"], 2)  # MODIFIED Más opciones
             }
             items.append(item)
         menu_ids = menu_col.insert_many(items).inserted_ids
-        # Actualizar el campo "menu" del restaurante con los ObjectIds
         restaurantes_col.update_one(
             {"_id": restaurante["_id"]},
             {"$set": {"menu": menu_ids}}
         )
 
-# 4. Generar Órdenes (200 órdenes)
+# 4. Generar Órdenes (MODIFIED con tiempos de preparación)
 def generar_ordenes(n=200):
     usuarios = list(usuarios_col.find())
     restaurantes = list(restaurantes_col.find())
     for _ in range(n):
         usuario = random.choice(usuarios)
         restaurante = random.choice(restaurantes)
-        # Obtener ítems del menú del restaurante
+        
+        # NEW: Obtener promociones activas para el restaurante
+        promociones = list(promociones_col.find({
+            "restaurant_id": restaurante["_id"],
+            "fechaInicio": {"$lte": datetime.now()},
+            "fechaFin": {"$gte": datetime.now()}
+        }))
+        
         items_menu = list(menu_col.find({"restaurant_id": restaurante["_id"]}))
         items_pedido = []
         total = 0
+        promocion_aplicada = None  # NEW
+        
         for _ in range(random.randint(1, 5)):
             item = random.choice(items_menu)
             cantidad = random.randint(1, 3)
-            subtotal = item["precio"] * cantidad
+            
+            # NEW: Verificar si el item tiene promoción
+            for promo in promociones:
+                if item["_id"] in promo["items_aplicables"]:
+                    if promo["tipo"] == "descuento":
+                        descuento = 0.2  # 20% de descuento
+                        subtotal = (item["precio"] * (1 - descuento)) * cantidad
+                        promocion_aplicada = promo["_id"]
+                    break
+            else:
+                subtotal = item["precio"] * cantidad
+            
             items_pedido.append({
                 "item_id": item["_id"],
                 "nombre": item["nombre"],
@@ -99,15 +122,48 @@ def generar_ordenes(n=200):
                 "precio_unitario": item["precio"]
             })
             total += subtotal
+        
+        fecha_pedido = fake.date_time_this_month()
         orden = {
             "usuario_id": usuario["_id"],
             "restaurant_id": restaurante["_id"],
             "estado": random.choice(["pendiente", "en preparación", "entregado"]),
-            "fechaPedido": fake.date_time_this_month(),
+            "fechaPedido": fecha_pedido,
+            "fechaInicioPreparacion": fecha_pedido + timedelta(minutes=random.randint(2, 10)),  # NEW
+            "fechaEntrega": None,  # NEW Se actualizará después
             "items": items_pedido,
-            "total": total
+            "total": total,
+            "promocion_id": promocion_aplicada  # NEW
         }
+        
+        # NEW: Calcular fecha de entrega si el estado es "entregado"
+        if orden["estado"] == "entregado":
+            orden["fechaEntrega"] = orden["fechaInicioPreparacion"] + timedelta(minutes=random.randint(15, 45))
+        
         ordenes_col.insert_one(orden)
+
+# NEW: 5. Generar Promociones
+def generar_promociones(n=30):
+    restaurantes = list(restaurantes_col.find())
+    for _ in range(n):
+        restaurante = random.choice(restaurantes)
+        items = list(menu_col.find({"restaurant_id": restaurante["_id"]}))
+        
+        promocion = {
+            "nombre": f"Promo {fake.word().capitalize()}",
+            "restaurant_id": restaurante["_id"],
+            "fechaInicio": fake.date_time_this_month(),
+            "fechaFin": fake.date_time_this_month() + timedelta(days=7),
+            "tipo": random.choice(["descuento", "2x1", "combo"]),
+            "items_aplicables": [item["_id"] for item in random.sample(items, min(3, len(items)))],
+            "descuento": None
+        }
+        
+        if promocion["tipo"] == "descuento":
+            promocion["descuento"] = round(random.uniform(0.1, 0.3)),  # 10-30% de descuento
+        
+        promociones_col.insert_one(promocion)
+
 
 # 5. Generar Reseñas (150 reseñas)
 def generar_reseñas(n=150):
@@ -139,11 +195,12 @@ def generar_pagos():
         }
         pagos_col.insert_one(pago)
 
-# Ejecutar generación en orden
+# EJECUCIÓN PRINCIPAL (MODIFIED con nuevo orden)
 generar_usuarios()
 generar_restaurantes()
 generar_menu()
-generar_ordenes()
+generar_promociones()  
+generar_ordenes()       
 generar_reseñas()
 generar_pagos()
 
@@ -172,3 +229,10 @@ reseñas_col.create_index([("calificación", 1)])
 # Índices para Pagos
 pagos_col.create_index([("order_id", 1), ("fecha", 1)])
 pagos_col.create_index([("usuario_id", 1)])
+
+# Nuevos índices para promociones
+promociones_col.create_index([("restaurant_id", 1)])
+promociones_col.create_index([("fechaInicio", 1), ("fechaFin", 1)])
+
+# Nuevo índice para tiempo de preparación en órdenes
+ordenes_col.create_index([("fechaInicioPreparacion", 1), ("fechaEntrega", 1)])
