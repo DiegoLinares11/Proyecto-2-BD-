@@ -7,7 +7,11 @@ from dotenv import load_dotenv
 import pandas as pd
 
 load_dotenv()
+SEED = 42
+random.seed(SEED)
 fake = Faker('es_ES')
+fake.seed_instance(SEED)
+
 
 # Conexión a Atlas
 client = MongoClient(os.getenv("MONGODB_URI"))
@@ -106,6 +110,7 @@ def generar_ordenes(n=200):
             cantidad = random.randint(1, 3)
             
             # NEW: Verificar si el item tiene promoción
+            subtotal = item["precio"] * cantidad  # Valor por defecto
             for promo in promociones:
                 if item["_id"] in promo["items_aplicables"]:
                     if promo["tipo"] == "descuento":
@@ -161,7 +166,7 @@ def generar_promociones(n=30):
         }
         
         if promocion["tipo"] == "descuento":
-            promocion["descuento"] = round(random.uniform(0.1, 0.3)),  # 10-30% de descuento
+            promocion["descuento"] = round(random.uniform(0.1, 0.3), 2)  # 10-30% de descuento
         
         promociones_col.insert_one(promocion)
 
@@ -195,6 +200,14 @@ def generar_pagos():
             "fecha": orden["fechaPedido"] + timedelta(minutes=10)
         }
         pagos_col.insert_one(pago)
+
+def limpiar_colecciones():
+    for col in [usuarios_col, restaurantes_col, menu_col, ordenes_col, reseñas_col, pagos_col, promociones_col]:
+        col.drop()
+    print(" Todas las colecciones han sido eliminadas.")
+
+# Ejecutar limpieza
+limpiar_colecciones()
 
 # EJECUCIÓN PRINCIPAL (MODIFIED con nuevo orden)
 generar_usuarios()
@@ -249,6 +262,7 @@ colecciones = {
     "pagos": pagos_col,
     "promociones": promociones_col
 }
+
 
 # Directorio donde guardar los CSV
 directorio_salida = "csv_exports"
