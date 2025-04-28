@@ -1,1 +1,3 @@
 scripts/.env
+backend/src/.env
+backend/node_modules/

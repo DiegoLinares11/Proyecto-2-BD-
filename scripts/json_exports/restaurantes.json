@@ -1,0 +1,3602 @@
+[
+  {
+    "_id":"680ef9ad5a7f860efab8c4fa",
+    "nombre":"Logística del Mediterráneo S.A.",
+    "direccion":"Urbanización Rafael Salvador 3 Apt. 57 \nSalamanca, 09439",
+    "lat":17.436263,
+    "lon":-91.951188,
+    "categorias":[
+      "postres",
+      "mexicana"
+    ],
+    "createdAt":"2025-04-06T21:04:00.156571"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c4fb",
+    "nombre":"Suministros Avanzadas S.Com.",
+    "direccion":"Pasadizo Vidal Aragonés 64 Piso 4 \nValladolid, 16287",
+    "lat":16.532205,
+    "lon":-88.602157,
+    "categorias":[
+      "italiana",
+      "asiatica"
+    ],
+    "createdAt":"2025-04-15T02:56:44.796974"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c4fc",
+    "nombre":"Hnos Puig S.L.",
+    "direccion":"Plaza María Dolores Pol 9 Puerta 6 \nGranada, 18294",
+    "lat":14.172121,
+    "lon":-90.224672,
+    "categorias":[
+      "rapida",
+      "vegetariana"
+    ],
+    "createdAt":"2025-01-27T15:13:08.316504"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c4fd",
+    "nombre":"Gonzalez y asociados S.Com.",
+    "direccion":"Via de Rosalinda Pareja 43\nAlbacete, 27725",
+    "lat":13.846635,
+    "lon":-88.966124,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-03-21T08:48:50.168281"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c4fe",
+    "nombre":"Banca Privada IRJL S.A.",
+    "direccion":"Cuesta de Feliciano Roma 447\nMurcia, 06659",
+    "lat":14.680629,
+    "lon":-91.455629,
+    "categorias":[
+      "mexicana",
+      "italiana"
+    ],
+    "createdAt":"2025-02-18T01:22:03.587939"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c4ff",
+    "nombre":"Grupo Noriega S.A.",
+    "direccion":"C. Esteban Vera 158\nBarcelona, 20126",
+    "lat":16.830114,
+    "lon":-88.256979,
+    "categorias":[
+      "vegetariana",
+      "postres"
+    ],
+    "createdAt":"2025-04-15T08:38:27.820657"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c500",
+    "nombre":"Cabo & Asociados S.L.",
+    "direccion":"Avenida Saturnina Miguel 86\nMelilla, 30595",
+    "lat":16.128978,
+    "lon":-90.537585,
+    "categorias":[
+      "rapida",
+      "italiana"
+    ],
+    "createdAt":"2025-01-28T07:43:55.078651"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c501",
+    "nombre":"Restauración Pinedo y asociados S.Com.",
+    "direccion":"Calle Amancio Torrents 17\nMálaga, 30686",
+    "lat":14.750017,
+    "lon":-90.171122,
+    "categorias":[
+      "rapida",
+      "vegetariana"
+    ],
+    "createdAt":"2025-04-03T22:36:34.013342"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c502",
+    "nombre":"Suministros Leiva & Asociados S.Coop.",
+    "direccion":"Acceso Hortensia Sanmartín 5\nValencia, 50579",
+    "lat":13.937929,
+    "lon":-89.366211,
+    "categorias":[
+      "rapida",
+      "vegetariana"
+    ],
+    "createdAt":"2025-02-09T09:42:21.430137"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c503",
+    "nombre":"Izaguirre & Asociados S.Coop.",
+    "direccion":"Rambla de Cleto Arévalo 943 Apt. 54 \nZaragoza, 39696",
+    "lat":16.77963,
+    "lon":-91.670666,
+    "categorias":[
+      "postres",
+      "rapida"
+    ],
+    "createdAt":"2025-03-17T19:54:36.834159"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c504",
+    "nombre":"Hotel Agudo & Asociados S.Coop.",
+    "direccion":"Pasaje Quirino Gimeno 939\nVizcaya, 25629",
+    "lat":14.323298,
+    "lon":-91.991509,
+    "categorias":[
+      "rapida",
+      "mexicana"
+    ],
+    "createdAt":"2025-02-22T18:36:50.388234"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c505",
+    "nombre":"Agullo y Andres S.L.L.",
+    "direccion":"Calle de Dominga Villa 79\nGirona, 49273",
+    "lat":14.182455,
+    "lon":-92.193,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-04-07T14:20:37.918449"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c506",
+    "nombre":"Finanzas Garzón & Asociados S.L.N.E",
+    "direccion":"Urbanización de José Salcedo 7\nMálaga, 03668",
+    "lat":17.634692,
+    "lon":-90.234303,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-01-31T02:59:11.481734"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c507",
+    "nombre":"Florinda Barrio Ocaña S.L.",
+    "direccion":"Vial de Delfina Duarte 38 Piso 9 \nGirona, 36807",
+    "lat":16.374524,
+    "lon":-88.803617,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-01-01T18:40:32.970988"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c508",
+    "nombre":"Juan Antonio Morera Duran S.A.",
+    "direccion":"Acceso Azahar Terrón 78\nZaragoza, 25898",
+    "lat":14.993375,
+    "lon":-88.655867,
+    "categorias":[
+      "rapida",
+      "italiana"
+    ],
+    "createdAt":"2025-01-08T15:49:41.228803"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c509",
+    "nombre":"Compañía Plana y asociados S.L.",
+    "direccion":"Cuesta Trinidad Santamaria 11 Piso 6 \nCantabria, 09500",
+    "lat":17.611836,
+    "lon":-89.185262,
+    "categorias":[
+      "asiatica",
+      "postres"
+    ],
+    "createdAt":"2025-02-18T02:44:36.507503"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c50a",
+    "nombre":"Inmobiliaria Rocha S.A.T.",
+    "direccion":"Cuesta de Candela Ribas 63\nNavarra, 26136",
+    "lat":15.254374,
+    "lon":-89.136907,
+    "categorias":[
+      "italiana",
+      "rapida"
+    ],
+    "createdAt":"2025-02-18T23:50:57.979337"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c50b",
+    "nombre":"Valeria García Roldan S.L.L.",
+    "direccion":"Via Dan Delgado 95\nÁvila, 24458",
+    "lat":15.335643,
+    "lon":-90.407208,
+    "categorias":[
+      "italiana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-04-13T20:41:13.676866"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c50c",
+    "nombre":"Emiliana Vendrell Martín S.L.N.E",
+    "direccion":"Ronda Armida Frutos 77 Apt. 89 \nMálaga, 10423",
+    "lat":16.134613,
+    "lon":-91.148165,
+    "categorias":[
+      "asiatica",
+      "rapida"
+    ],
+    "createdAt":"2025-04-18T01:52:59.609329"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c50d",
+    "nombre":"Damián Amorós Pereira S.Coop.",
+    "direccion":"Urbanización Jenny Vergara 5\nTeruel, 17089",
+    "lat":15.328574,
+    "lon":-89.821156,
+    "categorias":[
+      "postres",
+      "mexicana"
+    ],
+    "createdAt":"2025-01-18T19:25:22.868266"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c50e",
+    "nombre":"Miriam Español Castells S.C.P",
+    "direccion":"Via Teodosio Cañete 79 Puerta 9 \nAsturias, 33999",
+    "lat":17.745941,
+    "lon":-91.283944,
+    "categorias":[
+      "postres",
+      "rapida"
+    ],
+    "createdAt":"2025-02-13T01:23:54.140612"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c50f",
+    "nombre":"Inmobiliaria VWYG S.A.D",
+    "direccion":"C. Erasmo Sobrino 261\nOurense, 11796",
+    "lat":13.942987,
+    "lon":-90.278076,
+    "categorias":[
+      "postres",
+      "vegetariana"
+    ],
+    "createdAt":"2025-03-07T07:08:54.916809"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c510",
+    "nombre":"Inmobiliaria Arco & Asociados S.Com.",
+    "direccion":"Paseo de Tomasa Sobrino 63\nAlmería, 51666",
+    "lat":15.843951,
+    "lon":-92.2635,
+    "categorias":[
+      "italiana",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-01T12:19:36.483689"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c511",
+    "nombre":"Manrique & Asociados S.L.L.",
+    "direccion":"Rambla de Anita Valbuena 67 Piso 7 \nCeuta, 50154",
+    "lat":15.731457,
+    "lon":-88.556407,
+    "categorias":[
+      "vegetariana",
+      "italiana"
+    ],
+    "createdAt":"2025-03-02T21:02:19.024858"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c512",
+    "nombre":"Villanueva y Benito S.Com.",
+    "direccion":"Cañada Olalla Bonet 83\nCantabria, 12350",
+    "lat":15.993676,
+    "lon":-91.488607,
+    "categorias":[
+      "mexicana",
+      "postres"
+    ],
+    "createdAt":"2025-04-23T15:49:59.619575"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c513",
+    "nombre":"Comercial Viña & Asociados S.Coop.",
+    "direccion":"Paseo de Concepción Barrena 90 Piso 2 \nCeuta, 24365",
+    "lat":14.922802,
+    "lon":-88.838042,
+    "categorias":[
+      "rapida",
+      "vegetariana"
+    ],
+    "createdAt":"2025-03-13T08:01:25.740863"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c514",
+    "nombre":"Desarrollo QZ S.Coop.",
+    "direccion":"Camino Toribio Bernad 60 Apt. 87 \nAlicante, 08877",
+    "lat":17.347165,
+    "lon":-89.108904,
+    "categorias":[
+      "vegetariana",
+      "postres"
+    ],
+    "createdAt":"2025-03-09T04:57:09.457921"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c515",
+    "nombre":"Cruz y Macias S.Com.",
+    "direccion":"Vial Salomé Cordero 36\nGirona, 15345",
+    "lat":17.314908,
+    "lon":-90.078983,
+    "categorias":[
+      "asiatica",
+      "postres"
+    ],
+    "createdAt":"2025-02-23T21:45:29.784554"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c516",
+    "nombre":"Despacho Arellano S.Com.",
+    "direccion":"Ronda de Socorro Rivero 40 Piso 0 \nAlmería, 05398",
+    "lat":14.490061,
+    "lon":-88.711387,
+    "categorias":[
+      "mexicana",
+      "postres"
+    ],
+    "createdAt":"2025-04-07T11:13:08.520606"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c517",
+    "nombre":"Patiño y asociados S.L.",
+    "direccion":"Alameda Matilde Santamaría 843\nBadajoz, 32167",
+    "lat":15.619293,
+    "lon":-89.840907,
+    "categorias":[
+      "italiana",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-17T15:24:34.227523"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c518",
+    "nombre":"Minería HGJL S.Coop.",
+    "direccion":"Pasadizo de María Borrego 28 Puerta 6 \nCiudad, 40454",
+    "lat":15.720839,
+    "lon":-91.717223,
+    "categorias":[
+      "vegetariana",
+      "asiatica"
+    ],
+    "createdAt":"2025-01-25T00:15:30.648782"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c519",
+    "nombre":"Comercial Vara y asociados S.A.",
+    "direccion":"Acceso Rosa Quesada 11 Apt. 04 \nTeruel, 05585",
+    "lat":17.137716,
+    "lon":-91.72037,
+    "categorias":[
+      "vegetariana",
+      "asiatica"
+    ],
+    "createdAt":"2025-04-03T05:17:00.142252"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c51a",
+    "nombre":"Banco Rovira y asociados S.L.N.E",
+    "direccion":"Glorieta Valentina Saldaña 9\nAsturias, 20830",
+    "lat":17.576757,
+    "lon":-89.254952,
+    "categorias":[
+      "vegetariana",
+      "postres"
+    ],
+    "createdAt":"2025-02-19T10:53:21.593229"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c51b",
+    "nombre":"Compañía Castellana S.A.",
+    "direccion":"Glorieta Adriana Velasco 77 Apt. 31 \nLugo, 01270",
+    "lat":17.795638,
+    "lon":-91.838464,
+    "categorias":[
+      "asiatica",
+      "italiana"
+    ],
+    "createdAt":"2025-04-27T20:22:55.232398"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c51c",
+    "nombre":"Servicios Alemán S.L.",
+    "direccion":"C. Román Cámara 36\nBadajoz, 16211",
+    "lat":17.366078,
+    "lon":-88.385257,
+    "categorias":[
+      "italiana",
+      "mexicana"
+    ],
+    "createdAt":"2025-02-03T19:09:11.153414"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c51d",
+    "nombre":"Infraestructuras AZLH S.Coop.",
+    "direccion":"Avenida Carmen Alemán 71\nCantabria, 24902",
+    "lat":17.469285,
+    "lon":-90.170541,
+    "categorias":[
+      "mexicana",
+      "postres"
+    ],
+    "createdAt":"2025-03-10T23:03:33.416139"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c51e",
+    "nombre":"Minería Iberia S.L.",
+    "direccion":"Pasaje de Beatriz Zabala 624 Puerta 9 \nPontevedra, 35125",
+    "lat":15.456299,
+    "lon":-90.07509,
+    "categorias":[
+      "mexicana",
+      "asiatica"
+    ],
+    "createdAt":"2025-02-28T06:16:47.223696"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c51f",
+    "nombre":"Fábrica DO S.A.",
+    "direccion":"Rambla Juliana Sebastián 24\nMelilla, 31950",
+    "lat":16.612782,
+    "lon":-91.498647,
+    "categorias":[
+      "asiatica",
+      "mexicana"
+    ],
+    "createdAt":"2025-01-06T19:01:18.703180"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c520",
+    "nombre":"Machado y asociados S.A.",
+    "direccion":"Alameda de Pastor Fernandez 24 Apt. 69 \nZaragoza, 32248",
+    "lat":14.296018,
+    "lon":-91.313865,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-01-04T23:59:23.121537"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c521",
+    "nombre":"Inversiones Carpio S.C.P",
+    "direccion":"Via de Agustina Segovia 896\nValencia, 14351",
+    "lat":14.7582,
+    "lon":-91.334919,
+    "categorias":[
+      "vegetariana",
+      "rapida"
+    ],
+    "createdAt":"2025-03-22T11:39:26.313090"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c522",
+    "nombre":"Familia Llorente S.L.L.",
+    "direccion":"Cuesta de Elvira Luján 67 Apt. 73 \nCastellón, 11890",
+    "lat":15.192778,
+    "lon":-91.024076,
+    "categorias":[
+      "rapida",
+      "vegetariana"
+    ],
+    "createdAt":"2025-04-16T12:54:30.930847"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c523",
+    "nombre":"Font y asociados S.A.",
+    "direccion":"Via de Fernando Cuenca 69 Apt. 43 \nPontevedra, 11629",
+    "lat":15.820769,
+    "lon":-89.273977,
+    "categorias":[
+      "postres",
+      "vegetariana"
+    ],
+    "createdAt":"2025-04-19T01:59:09.262615"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c524",
+    "nombre":"Familia Bárcena S.L.",
+    "direccion":"Cañada Marcela Azcona 89 Apt. 89 \nCiudad, 34265",
+    "lat":14.102886,
+    "lon":-91.353358,
+    "categorias":[
+      "italiana",
+      "mexicana"
+    ],
+    "createdAt":"2025-04-27T08:50:51.449677"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c525",
+    "nombre":"Alfredo Rozas Juan S.A.",
+    "direccion":"Paseo de Consuelo Pou 38 Piso 3 \nJaén, 40885",
+    "lat":13.858224,
+    "lon":-91.365262,
+    "categorias":[
+      "rapida",
+      "vegetariana"
+    ],
+    "createdAt":"2025-01-15T18:31:40.969638"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c526",
+    "nombre":"Bayón y Aguado S.Com.",
+    "direccion":"Cañada Guadalupe Marín 59\nGuadalajara, 03495",
+    "lat":15.115349,
+    "lon":-91.608506,
+    "categorias":[
+      "rapida",
+      "postres"
+    ],
+    "createdAt":"2025-04-04T05:04:36.196307"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c527",
+    "nombre":"Calderón y asociados S.Coop.",
+    "direccion":"Urbanización Natalio Rivas 17 Piso 1 \nSevilla, 24723",
+    "lat":15.338507,
+    "lon":-91.800504,
+    "categorias":[
+      "vegetariana",
+      "asiatica"
+    ],
+    "createdAt":"2025-01-05T15:04:59.003474"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c528",
+    "nombre":"Transportes YG S.Com.",
+    "direccion":"Pasaje Almudena Juárez 9\nLugo, 38843",
+    "lat":14.93783,
+    "lon":-90.197229,
+    "categorias":[
+      "italiana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-02-21T14:30:06.885426"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c529",
+    "nombre":"Comercializadora Españolas S.Com.",
+    "direccion":"Ronda Marcelino Garmendia 99 Apt. 88 \nJaén, 31267",
+    "lat":14.737551,
+    "lon":-91.974168,
+    "categorias":[
+      "rapida",
+      "mexicana"
+    ],
+    "createdAt":"2025-04-24T00:33:08.402531"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c52a",
+    "nombre":"Hnos Iniesta S.L.L.",
+    "direccion":"Acceso de Amelia Báez 888\nSanta Cruz de Tenerife, 51723",
+    "lat":15.930606,
+    "lon":-89.402392,
+    "categorias":[
+      "postres",
+      "mexicana"
+    ],
+    "createdAt":"2025-03-22T03:48:01.042368"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c52b",
+    "nombre":"Hnos Nogueira S.L.",
+    "direccion":"Via de Reynaldo Moliner 441 Apt. 09 \nCáceres, 11754",
+    "lat":16.582495,
+    "lon":-88.644307,
+    "categorias":[
+      "italiana",
+      "rapida"
+    ],
+    "createdAt":"2025-01-03T13:00:52.332762"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c52c",
+    "nombre":"Servicios Enríquez & Asociados S.Com.",
+    "direccion":"Pasadizo Jose Angel Riera 5 Puerta 1 \nCádiz, 33973",
+    "lat":15.909961,
+    "lon":-91.815123,
+    "categorias":[
+      "vegetariana",
+      "rapida"
+    ],
+    "createdAt":"2025-03-24T00:06:05.105095"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c52d",
+    "nombre":"Servicios Fortuny S.L.",
+    "direccion":"Cañada de Marita Corral 203\nBadajoz, 42172",
+    "lat":17.461475,
+    "lon":-88.775035,
+    "categorias":[
+      "rapida",
+      "italiana"
+    ],
+    "createdAt":"2025-04-15T01:28:07.062946"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c52e",
+    "nombre":"Suministros Miró S.L.",
+    "direccion":"Rambla de Cándida Espinosa 97 Apt. 63 \nMelilla, 08017",
+    "lat":14.066236,
+    "lon":-89.808956,
+    "categorias":[
+      "rapida",
+      "italiana"
+    ],
+    "createdAt":"2025-01-15T21:34:34.942319"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c52f",
+    "nombre":"Hermanos Gimeno S.A.",
+    "direccion":"Calle de Apolinar Bayona 9\nCádiz, 17019",
+    "lat":16.909046,
+    "lon":-90.89905,
+    "categorias":[
+      "postres",
+      "vegetariana"
+    ],
+    "createdAt":"2025-04-18T05:48:57.047724"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c530",
+    "nombre":"Ibán Zapata Zorrilla S.L.N.E",
+    "direccion":"Rambla Chucho Cerdán 73\nBarcelona, 07234",
+    "lat":15.254244,
+    "lon":-90.8624,
+    "categorias":[
+      "vegetariana",
+      "mexicana"
+    ],
+    "createdAt":"2025-01-08T00:51:11.580811"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c531",
+    "nombre":"Hnos Llamas S.Com.",
+    "direccion":"Calle Dolores Bernal 8 Apt. 58 \nMálaga, 25345",
+    "lat":16.740226,
+    "lon":-90.246817,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-03-15T09:22:58.366373"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c532",
+    "nombre":"Comercializadora BKF S.L.L.",
+    "direccion":"Via Flavio Vara 15\nLa Coruña, 31639",
+    "lat":15.776884,
+    "lon":-91.252499,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-04-04T18:26:49.559674"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c533",
+    "nombre":"Comercial del Sur S.A.U",
+    "direccion":"Cañada Elodia Hernandez 21 Apt. 45 \nGranada, 09012",
+    "lat":15.553516,
+    "lon":-88.246582,
+    "categorias":[
+      "italiana",
+      "mexicana"
+    ],
+    "createdAt":"2025-01-30T21:46:04.100381"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c534",
+    "nombre":"Transportes NDD S.Coop.",
+    "direccion":"Avenida de Olga Cuervo 45\nValencia, 13115",
+    "lat":14.889278,
+    "lon":-89.022887,
+    "categorias":[
+      "vegetariana",
+      "postres"
+    ],
+    "createdAt":"2025-02-05T05:01:22.210458"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c535",
+    "nombre":"Encarna Barba Otero S.A.",
+    "direccion":"Cuesta de Nicolás Alcalde 917\nHuelva, 48919",
+    "lat":14.85132,
+    "lon":-90.914354,
+    "categorias":[
+      "asiatica",
+      "vegetariana"
+    ],
+    "createdAt":"2025-02-19T07:13:15.701963"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c536",
+    "nombre":"León y Arana S.L.U.",
+    "direccion":"Via Caridad Pera 87 Apt. 70 \nLeón, 24648",
+    "lat":16.465725,
+    "lon":-89.06949,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-02-25T05:18:50.023225"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c537",
+    "nombre":"Catalá y Serrano S.A.",
+    "direccion":"Cañada Francisco Jose Aparicio 80\nTeruel, 49094",
+    "lat":14.646556,
+    "lon":-92.271524,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-02-10T18:57:40.463771"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c538",
+    "nombre":"Ángel y Cobo S.L.L.",
+    "direccion":"Paseo de Alfonso Agustí 78 Apt. 69 \nAlmería, 35125",
+    "lat":16.163992,
+    "lon":-90.603984,
+    "categorias":[
+      "mexicana",
+      "postres"
+    ],
+    "createdAt":"2025-02-07T03:09:16.577347"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c539",
+    "nombre":"Talleres Morán y asociados S.A.",
+    "direccion":"Callejón Marcelino Maza 59 Piso 6 \nLa Coruña, 27139",
+    "lat":15.735826,
+    "lon":-91.685673,
+    "categorias":[
+      "mexicana",
+      "asiatica"
+    ],
+    "createdAt":"2025-01-21T09:44:53.304858"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c53a",
+    "nombre":"Minería Españolas S.Coop.",
+    "direccion":"Glorieta Lino Mayo 6\nCádiz, 38606",
+    "lat":15.24327,
+    "lon":-89.893116,
+    "categorias":[
+      "vegetariana",
+      "mexicana"
+    ],
+    "createdAt":"2025-03-28T14:45:26.261823"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c53b",
+    "nombre":"Talleres Serra S.Coop.",
+    "direccion":"Acceso Bibiana Reina 7\nAlmería, 06301",
+    "lat":16.530909,
+    "lon":-89.628304,
+    "categorias":[
+      "postres",
+      "rapida"
+    ],
+    "createdAt":"2025-01-24T23:15:29.924503"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c53c",
+    "nombre":"Industrias GADX S.Coop.",
+    "direccion":"Calle Consuelo Barceló 37\nNavarra, 20582",
+    "lat":16.749353,
+    "lon":-89.008022,
+    "categorias":[
+      "rapida",
+      "asiatica"
+    ],
+    "createdAt":"2025-01-06T16:28:49.793287"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c53d",
+    "nombre":"Familia Ribera S.L.N.E",
+    "direccion":"Ronda de Julie Plana 60\nLa Rioja, 34875",
+    "lat":14.650192,
+    "lon":-90.792633,
+    "categorias":[
+      "italiana",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-08T07:00:35.976258"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c53e",
+    "nombre":"Promociones Pelayo S.L.",
+    "direccion":"Paseo de Juan José Amigó 50\nPalencia, 02757",
+    "lat":15.031861,
+    "lon":-89.515361,
+    "categorias":[
+      "rapida",
+      "italiana"
+    ],
+    "createdAt":"2025-01-21T06:23:51.773971"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c53f",
+    "nombre":"Consultoría Reguera & Asociados S.Coop.",
+    "direccion":"Camino de Evita Sacristán 10\nCeuta, 13759",
+    "lat":17.717345,
+    "lon":-89.899544,
+    "categorias":[
+      "vegetariana",
+      "italiana"
+    ],
+    "createdAt":"2025-03-30T20:44:57.616844"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c540",
+    "nombre":"Distribuciones GRZ S.C.P",
+    "direccion":"Alameda de Artemio Donaire 41 Piso 4 \nMadrid, 08881",
+    "lat":16.901659,
+    "lon":-89.821307,
+    "categorias":[
+      "italiana",
+      "rapida"
+    ],
+    "createdAt":"2025-04-10T23:04:02.561975"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c541",
+    "nombre":"Palma y Azorin S.A.T.",
+    "direccion":"Plaza de Agustín Tomé 98\nMálaga, 10762",
+    "lat":16.50017,
+    "lon":-88.581776,
+    "categorias":[
+      "italiana",
+      "asiatica"
+    ],
+    "createdAt":"2025-02-20T23:50:20.029888"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c542",
+    "nombre":"Comercial Bilbao S.A.",
+    "direccion":"Vial de Sandalio Durán 8\nSoria, 31921",
+    "lat":14.165358,
+    "lon":-91.525199,
+    "categorias":[
+      "postres",
+      "vegetariana"
+    ],
+    "createdAt":"2025-03-08T22:28:35.107755"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c543",
+    "nombre":"Matías Sevillano Calleja S.L.",
+    "direccion":"Acceso Alcides Amores 89 Apt. 65 \nZaragoza, 48017",
+    "lat":17.210143,
+    "lon":-89.21017,
+    "categorias":[
+      "italiana",
+      "mexicana"
+    ],
+    "createdAt":"2025-03-17T05:04:15.556197"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c544",
+    "nombre":"Despacho Galvez & Asociados S.L.",
+    "direccion":"Paseo Cayetano Uriarte 431\nLleida, 05648",
+    "lat":14.827888,
+    "lon":-90.13647,
+    "categorias":[
+      "vegetariana",
+      "asiatica"
+    ],
+    "createdAt":"2025-04-16T23:09:31.281463"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c545",
+    "nombre":"Grupo Redondo S.Com.",
+    "direccion":"Acceso de Anunciación Vendrell 9 Puerta 3 \nJaén, 02408",
+    "lat":14.815242,
+    "lon":-88.726419,
+    "categorias":[
+      "rapida",
+      "postres"
+    ],
+    "createdAt":"2025-02-19T05:05:25.453912"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c546",
+    "nombre":"Casemiro Catalán Padilla S.Com.",
+    "direccion":"Paseo de Juan Manuel Ferrán 917 Apt. 64 \nZamora, 36840",
+    "lat":13.839097,
+    "lon":-89.466788,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-04-22T19:57:42.410638"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c547",
+    "nombre":"Inmobiliaria Melero & Asociados S.C.P",
+    "direccion":"Camino de Dorotea Blazquez 9 Piso 7 \nMadrid, 21565",
+    "lat":17.504605,
+    "lon":-90.94405,
+    "categorias":[
+      "postres",
+      "asiatica"
+    ],
+    "createdAt":"2025-04-07T22:47:47.637462"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c548",
+    "nombre":"Huerta y Millán S.Coop.",
+    "direccion":"Paseo Teobaldo Vizcaíno 12\nLleida, 48877",
+    "lat":15.075074,
+    "lon":-89.389721,
+    "categorias":[
+      "vegetariana",
+      "mexicana"
+    ],
+    "createdAt":"2025-01-24T20:00:58.585533"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c549",
+    "nombre":"Mulet y Manjón S.A.U",
+    "direccion":"Vial Rufino Escamilla 397\nCórdoba, 38492",
+    "lat":16.135063,
+    "lon":-90.842862,
+    "categorias":[
+      "vegetariana",
+      "asiatica"
+    ],
+    "createdAt":"2025-04-18T13:53:49.230930"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c54a",
+    "nombre":"Bosch y Gilabert S.Com.",
+    "direccion":"Calle de Clemente Girona 1 Puerta 9 \nBarcelona, 18109",
+    "lat":16.770271,
+    "lon":-90.546238,
+    "categorias":[
+      "vegetariana",
+      "postres"
+    ],
+    "createdAt":"2025-02-12T12:06:25.427579"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c54b",
+    "nombre":"Consultoría NFX S.L.",
+    "direccion":"Pasaje Demetrio Agustí 58\nLas Palmas, 29591",
+    "lat":14.266572,
+    "lon":-91.953372,
+    "categorias":[
+      "postres",
+      "rapida"
+    ],
+    "createdAt":"2025-02-11T18:36:17.117407"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c54c",
+    "nombre":"Paz y Ibáñez S.A.",
+    "direccion":"Glorieta Paola Salas 89\nLas Palmas, 20621",
+    "lat":17.154535,
+    "lon":-89.437528,
+    "categorias":[
+      "vegetariana",
+      "rapida"
+    ],
+    "createdAt":"2025-02-12T10:49:36.392221"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c54d",
+    "nombre":"Candelario Cuervo Bermúdez S.L.",
+    "direccion":"Cañada de Carlito Montoya 37 Apt. 31 \nCiudad, 39184",
+    "lat":14.234766,
+    "lon":-90.894541,
+    "categorias":[
+      "asiatica",
+      "italiana"
+    ],
+    "createdAt":"2025-04-25T19:32:33.532519"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c54e",
+    "nombre":"Comercial Iberia S.L.",
+    "direccion":"Cuesta de Luciana Egea 80 Apt. 13 \nAlbacete, 43059",
+    "lat":17.665639,
+    "lon":-91.839791,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-03-25T05:05:30.650034"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c54f",
+    "nombre":"Soluciones del Noroeste S.Coop.",
+    "direccion":"Cuesta Charo Fuster 87 Piso 4 \nCantabria, 12089",
+    "lat":16.35828,
+    "lon":-90.468001,
+    "categorias":[
+      "vegetariana",
+      "postres"
+    ],
+    "createdAt":"2025-04-22T22:30:33.410856"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c550",
+    "nombre":"Sanmiguel & Asociados S.L.N.E",
+    "direccion":"Camino de Martirio Rozas 347 Piso 6 \nCórdoba, 05524",
+    "lat":15.589925,
+    "lon":-89.584718,
+    "categorias":[
+      "vegetariana",
+      "postres"
+    ],
+    "createdAt":"2025-04-18T12:35:52.018807"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c551",
+    "nombre":"Compañía Tejera S.Coop.",
+    "direccion":"Camino de Dominga Madrid 34\nPalencia, 25806",
+    "lat":16.09881,
+    "lon":-91.339637,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-01-25T22:08:56.852376"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c552",
+    "nombre":"Inmobiliaria Ureña S.A.",
+    "direccion":"Camino Isa Pera 84 Apt. 20 \nLeón, 16201",
+    "lat":17.04607,
+    "lon":-89.382445,
+    "categorias":[
+      "asiatica",
+      "mexicana"
+    ],
+    "createdAt":"2025-04-25T11:57:36.656582"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c553",
+    "nombre":"Restauración CCPJ S.A.",
+    "direccion":"Cuesta de Miguel Figuerola 99 Apt. 91 \nTarragona, 23318",
+    "lat":17.07558,
+    "lon":-90.567493,
+    "categorias":[
+      "postres",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-12T23:44:39.259662"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c554",
+    "nombre":"Hermanos Vallés S.Coop.",
+    "direccion":"Callejón Silvestre Marqués 2 Puerta 8 \nCeuta, 48539",
+    "lat":16.184762,
+    "lon":-89.354429,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-02-01T12:27:00.152660"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c555",
+    "nombre":"Artemio Alemán Rocamora S.A.",
+    "direccion":"Cuesta de Jorge Vicente 1\nCiudad, 33654",
+    "lat":13.917385,
+    "lon":-90.47568,
+    "categorias":[
+      "rapida",
+      "asiatica"
+    ],
+    "createdAt":"2025-04-10T07:45:26.570781"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c556",
+    "nombre":"Florentino Bejarano Perales S.A.",
+    "direccion":"Avenida de Salomón Hurtado 60\nJaén, 19721",
+    "lat":17.660419,
+    "lon":-91.875897,
+    "categorias":[
+      "postres",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-13T12:15:41.850814"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c557",
+    "nombre":"Almagro & Asociados S.Coop.",
+    "direccion":"Plaza Calixto Santos 15 Piso 9 \nGuadalajara, 30484",
+    "lat":14.863866,
+    "lon":-89.609936,
+    "categorias":[
+      "rapida",
+      "postres"
+    ],
+    "createdAt":"2025-03-06T02:06:03.956568"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c558",
+    "nombre":"Compañía Corbacho y asociados S.L.N.E",
+    "direccion":"Urbanización de Guillermo Viñas 39\nPalencia, 12037",
+    "lat":17.603359,
+    "lon":-89.275566,
+    "categorias":[
+      "mexicana",
+      "italiana"
+    ],
+    "createdAt":"2025-03-11T11:11:06.396914"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c559",
+    "nombre":"Industrias Vallés S.L.",
+    "direccion":"Calle de Bartolomé Valcárcel 33 Piso 2 \nCastellón, 11956",
+    "lat":17.211383,
+    "lon":-88.716777,
+    "categorias":[
+      "asiatica",
+      "vegetariana"
+    ],
+    "createdAt":"2025-04-23T03:03:10.215193"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c55a",
+    "nombre":"Rodrigo Armengol Garcés S.Com.",
+    "direccion":"Callejón de Verónica Coello 37\nCáceres, 28774",
+    "lat":15.993693,
+    "lon":-91.931565,
+    "categorias":[
+      "vegetariana",
+      "mexicana"
+    ],
+    "createdAt":"2025-02-03T12:00:50.171121"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c55b",
+    "nombre":"Eustaquio Valls Huertas S.L.",
+    "direccion":"Rambla Evelia Pinedo 4 Apt. 22 \nGuipúzcoa, 25606",
+    "lat":16.264605,
+    "lon":-88.64679,
+    "categorias":[
+      "mexicana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-01-12T17:25:22.740789"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c55c",
+    "nombre":"Álamo & Asociados S.Com.",
+    "direccion":"Urbanización de Amador Vendrell 9\nTeruel, 49743",
+    "lat":16.625895,
+    "lon":-89.12714,
+    "categorias":[
+      "asiatica",
+      "mexicana"
+    ],
+    "createdAt":"2025-03-09T03:21:27.025871"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c55d",
+    "nombre":"Instalaciones Cisneros S.C.P",
+    "direccion":"Acceso Obdulia Ugarte 32 Puerta 8 \nBurgos, 03041",
+    "lat":16.323618,
+    "lon":-90.318088,
+    "categorias":[
+      "postres",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-30T22:34:16.668371"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c55e",
+    "nombre":"Transportes Integrales S.Coop.",
+    "direccion":"Urbanización Saturnino Salas 68\nCuenca, 23906",
+    "lat":17.019679,
+    "lon":-89.376939,
+    "categorias":[
+      "rapida",
+      "postres"
+    ],
+    "createdAt":"2025-02-10T04:07:37.176156"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c55f",
+    "nombre":"Instalaciones Llano y asociados S.A.",
+    "direccion":"Vial de Tiburcio Fabra 43\nMurcia, 14972",
+    "lat":16.052491,
+    "lon":-90.02534,
+    "categorias":[
+      "postres",
+      "mexicana"
+    ],
+    "createdAt":"2025-01-24T17:01:28.473086"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c560",
+    "nombre":"Peral y asociados S.L.",
+    "direccion":"Avenida de Jesús Ferrández 2 Piso 5 \nBaleares, 10508",
+    "lat":13.897939,
+    "lon":-91.732063,
+    "categorias":[
+      "vegetariana",
+      "rapida"
+    ],
+    "createdAt":"2025-04-11T12:59:17.435364"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c561",
+    "nombre":"Iniesta y Olivares S.L.N.E",
+    "direccion":"Pasaje de Andrés Pablo 81 Apt. 59 \nSegovia, 36383",
+    "lat":14.823067,
+    "lon":-90.428987,
+    "categorias":[
+      "postres",
+      "rapida"
+    ],
+    "createdAt":"2025-01-27T01:58:05.083573"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c562",
+    "nombre":"Hotel Ibéricos S.Com.",
+    "direccion":"Plaza de Donato Fuster 58 Apt. 03 \nÁvila, 06114",
+    "lat":14.093011,
+    "lon":-91.960571,
+    "categorias":[
+      "asiatica",
+      "postres"
+    ],
+    "createdAt":"2025-04-15T16:08:32.543326"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c563",
+    "nombre":"Guadalupe Chamorro Alvarez S.L.N.E",
+    "direccion":"Avenida Xavier Gracia 722\nZaragoza, 27005",
+    "lat":14.232568,
+    "lon":-89.312085,
+    "categorias":[
+      "italiana",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-05T00:08:42.856815"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c564",
+    "nombre":"Robledo y Grau S.A.",
+    "direccion":"Cañada de Candelaria Ramón 99\nGuadalajara, 29128",
+    "lat":17.247749,
+    "lon":-88.363451,
+    "categorias":[
+      "italiana",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-07T13:12:32.428304"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c565",
+    "nombre":"Distribuciones DROE S.L.N.E",
+    "direccion":"Pasadizo Rosalinda Falcón 40 Apt. 75 \nBarcelona, 41481",
+    "lat":16.940624,
+    "lon":-91.16186,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-03-26T01:19:37.310025"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c566",
+    "nombre":"Servicios Feijoo & Asociados S.A.",
+    "direccion":"C. Piedad Moraleda 33\nPontevedra, 46292",
+    "lat":15.699329,
+    "lon":-89.934883,
+    "categorias":[
+      "italiana",
+      "rapida"
+    ],
+    "createdAt":"2025-04-22T04:26:50.080047"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c567",
+    "nombre":"Construcción DTTN S.L.U.",
+    "direccion":"Cañada de Patricia Iniesta 35\nSalamanca, 28220",
+    "lat":14.188967,
+    "lon":-91.067143,
+    "categorias":[
+      "rapida",
+      "vegetariana"
+    ],
+    "createdAt":"2025-04-01T20:00:12.551673"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c568",
+    "nombre":"Chelo Corbacho Rosell S.Coop.",
+    "direccion":"Cañada Xavier Acero 32\nAlicante, 49684",
+    "lat":14.743772,
+    "lon":-89.378488,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-01-02T11:58:14.285182"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c569",
+    "nombre":"Finanzas Berrocal & Asociados S.L.",
+    "direccion":"Via Socorro Almazán 93 Puerta 8 \nBadajoz, 50974",
+    "lat":17.79737,
+    "lon":-88.78934,
+    "categorias":[
+      "mexicana",
+      "italiana"
+    ],
+    "createdAt":"2025-01-19T19:39:59.373766"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c56a",
+    "nombre":"Hermanos Lladó S.A.",
+    "direccion":"Via de Tomás Aragonés 1\nBurgos, 49896",
+    "lat":16.808819,
+    "lon":-90.424346,
+    "categorias":[
+      "vegetariana",
+      "mexicana"
+    ],
+    "createdAt":"2025-04-26T12:31:14.658118"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c56b",
+    "nombre":"Distribuciones Española S.A.",
+    "direccion":"Acceso Marita Cabezas 7\nValencia, 40289",
+    "lat":16.698963,
+    "lon":-91.061908,
+    "categorias":[
+      "rapida",
+      "mexicana"
+    ],
+    "createdAt":"2025-02-27T07:13:57.991494"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c56c",
+    "nombre":"Tecnologías Amo y asociados S.L.N.E",
+    "direccion":"Pasaje de Perla Ramirez 23\nAlmería, 40546",
+    "lat":17.634439,
+    "lon":-88.965334,
+    "categorias":[
+      "postres",
+      "asiatica"
+    ],
+    "createdAt":"2025-04-22T15:27:54.183171"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c56d",
+    "nombre":"Font & Asociados S.Coop.",
+    "direccion":"Glorieta Rodolfo Morillo 82\nCórdoba, 32561",
+    "lat":17.46071,
+    "lon":-88.782287,
+    "categorias":[
+      "vegetariana",
+      "mexicana"
+    ],
+    "createdAt":"2025-04-01T16:02:18.324778"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c56e",
+    "nombre":"Minería Alberto S.Coop.",
+    "direccion":"Urbanización Oriana Castejón 15\nGranada, 18005",
+    "lat":14.688819,
+    "lon":-88.200046,
+    "categorias":[
+      "postres",
+      "rapida"
+    ],
+    "createdAt":"2025-03-02T03:48:45.609959"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c56f",
+    "nombre":"Transportes YMTL S.Com.",
+    "direccion":"Ronda Lidia Vila 46 Puerta 0 \nCantabria, 31483",
+    "lat":17.679002,
+    "lon":-90.005772,
+    "categorias":[
+      "postres",
+      "rapida"
+    ],
+    "createdAt":"2025-01-20T00:18:34.892824"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c570",
+    "nombre":"Teruel y asociados S.Coop.",
+    "direccion":"Via Vicente Antúnez 4 Puerta 9 \nÁlava, 10410",
+    "lat":15.579814,
+    "lon":-92.068325,
+    "categorias":[
+      "asiatica",
+      "postres"
+    ],
+    "createdAt":"2025-03-08T12:26:05.223094"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c571",
+    "nombre":"Catalina Vizcaíno Castañeda S.A.",
+    "direccion":"Pasadizo de Timoteo Cerezo 34\nCeuta, 20117",
+    "lat":17.33816,
+    "lon":-89.706656,
+    "categorias":[
+      "vegetariana",
+      "mexicana"
+    ],
+    "createdAt":"2025-04-17T05:13:32.380169"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c572",
+    "nombre":"Despacho Rios S.Com.",
+    "direccion":"Callejón de Nereida Cid 60\nJaén, 23116",
+    "lat":14.407586,
+    "lon":-88.481172,
+    "categorias":[
+      "mexicana",
+      "italiana"
+    ],
+    "createdAt":"2025-03-30T06:07:38.278617"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c573",
+    "nombre":"Tadeo Alberola Quintero S.A.",
+    "direccion":"Cuesta Juan Gárate 22 Apt. 84 \nSalamanca, 36162",
+    "lat":16.778954,
+    "lon":-89.318997,
+    "categorias":[
+      "asiatica",
+      "italiana"
+    ],
+    "createdAt":"2025-04-08T08:20:19.508922"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c574",
+    "nombre":"Banca Privada Ibéricos S.L.",
+    "direccion":"C. de Toni Villanueva 3 Piso 8 \nGirona, 49684",
+    "lat":15.957466,
+    "lon":-91.629959,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-03-07T09:28:09.316206"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c575",
+    "nombre":"Construcción QWX S.L.",
+    "direccion":"Callejón Amparo Peña 859\nLas Palmas, 20799",
+    "lat":15.68059,
+    "lon":-88.316484,
+    "categorias":[
+      "italiana",
+      "asiatica"
+    ],
+    "createdAt":"2025-04-02T17:57:54.518645"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c576",
+    "nombre":"Suministros Pedrero S.Coop.",
+    "direccion":"Cuesta Prudencia Sanz 56\nGuipúzcoa, 47788",
+    "lat":15.377308,
+    "lon":-90.635948,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-02-04T00:20:00.610346"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c577",
+    "nombre":"Solé y asociados S.A.U",
+    "direccion":"Calle Asdrubal Canales 77 Puerta 3 \nCáceres, 48809",
+    "lat":14.30845,
+    "lon":-90.535451,
+    "categorias":[
+      "postres",
+      "mexicana"
+    ],
+    "createdAt":"2025-03-28T15:24:37.546462"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c578",
+    "nombre":"Industrias GNT S.A.",
+    "direccion":"Urbanización de Sara Millán 81 Puerta 0 \nZaragoza, 32147",
+    "lat":15.952187,
+    "lon":-91.418468,
+    "categorias":[
+      "asiatica",
+      "vegetariana"
+    ],
+    "createdAt":"2025-01-16T17:22:32.514962"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c579",
+    "nombre":"Wálter Ferrando Arranz S.L.L.",
+    "direccion":"Glorieta Antonio Ledesma 13\nLleida, 37998",
+    "lat":15.583434,
+    "lon":-90.619545,
+    "categorias":[
+      "rapida",
+      "asiatica"
+    ],
+    "createdAt":"2025-04-09T04:42:54.172638"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c57a",
+    "nombre":"Familia Castillo S.L.N.E",
+    "direccion":"Urbanización Ani Mendizábal 6\nGuipúzcoa, 01642",
+    "lat":14.247749,
+    "lon":-91.855489,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-04-19T14:01:40.306743"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c57b",
+    "nombre":"Cuéllar y Torralba S.A.",
+    "direccion":"Glorieta de Calisto Pazos 94\nLas Palmas, 26492",
+    "lat":17.099345,
+    "lon":-91.525461,
+    "categorias":[
+      "postres",
+      "rapida"
+    ],
+    "createdAt":"2025-02-22T14:28:33.855482"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c57c",
+    "nombre":"Lillo y Roselló S.A.",
+    "direccion":"Avenida de Sabas Oliveras 3 Piso 5 \nLugo, 13906",
+    "lat":13.739468,
+    "lon":-89.196247,
+    "categorias":[
+      "asiatica",
+      "italiana"
+    ],
+    "createdAt":"2025-02-26T09:42:30.701637"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c57d",
+    "nombre":"Distribuciones Barón y asociados S.A.",
+    "direccion":"Pasaje de Nicolasa Álvaro 10\nOurense, 35715",
+    "lat":15.532774,
+    "lon":-88.975955,
+    "categorias":[
+      "rapida",
+      "asiatica"
+    ],
+    "createdAt":"2025-02-09T21:02:15.243667"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c57e",
+    "nombre":"Barba y asociados S.L.",
+    "direccion":"C. de Jose Gabaldón 412 Piso 4 \nSegovia, 15035",
+    "lat":16.88452,
+    "lon":-90.136308,
+    "categorias":[
+      "asiatica",
+      "rapida"
+    ],
+    "createdAt":"2025-02-20T06:56:20.735715"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c57f",
+    "nombre":"Cortes y Adán S.A.D",
+    "direccion":"Calle Eva María Valentín 8\nLugo, 16552",
+    "lat":17.4681,
+    "lon":-89.4093,
+    "categorias":[
+      "rapida",
+      "asiatica"
+    ],
+    "createdAt":"2025-04-16T06:14:29.018218"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c580",
+    "nombre":"Aroca y Herranz S.A.",
+    "direccion":"Pasaje Lidia Alcalá 76 Apt. 05 \nPalencia, 50707",
+    "lat":14.621665,
+    "lon":-92.150004,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-01-28T15:27:34.541729"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c581",
+    "nombre":"Inmobiliaria YYNK S.A.",
+    "direccion":"Calle de Glauco Ródenas 782\nBarcelona, 22261",
+    "lat":16.03962,
+    "lon":-88.653862,
+    "categorias":[
+      "asiatica",
+      "mexicana"
+    ],
+    "createdAt":"2025-02-09T07:38:24.946818"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c582",
+    "nombre":"Salinas y asociados S.L.N.E",
+    "direccion":"Calle de Azahar Arenas 16 Apt. 63 \nÁlava, 39148",
+    "lat":14.819146,
+    "lon":-91.187588,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-03-17T10:10:12.246200"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c583",
+    "nombre":"Bermudez y Rico S.Coop.",
+    "direccion":"Urbanización René Font 35\nCuenca, 44643",
+    "lat":15.716002,
+    "lon":-91.051679,
+    "categorias":[
+      "rapida",
+      "postres"
+    ],
+    "createdAt":"2025-01-26T16:03:22.261848"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c584",
+    "nombre":"Restauración Jiménez S.C.P",
+    "direccion":"Cañada de Delfina Llano 61\nSanta Cruz de Tenerife, 34052",
+    "lat":17.528866,
+    "lon":-91.57839,
+    "categorias":[
+      "rapida",
+      "vegetariana"
+    ],
+    "createdAt":"2025-02-17T22:39:29.131935"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c585",
+    "nombre":"Logística FVPN S.L.",
+    "direccion":"Plaza de Teo Alegre 612\nAlmería, 26749",
+    "lat":13.942987,
+    "lon":-90.353435,
+    "categorias":[
+      "vegetariana",
+      "postres"
+    ],
+    "createdAt":"2025-01-04T13:59:39.281824"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c586",
+    "nombre":"Despacho Lara S.L.N.E",
+    "direccion":"Cuesta de Aurelio Redondo 75\nAlicante, 02198",
+    "lat":17.029504,
+    "lon":-90.680633,
+    "categorias":[
+      "rapida",
+      "mexicana"
+    ],
+    "createdAt":"2025-04-01T15:11:58.677557"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c587",
+    "nombre":"Grupo Carbajo S.L.",
+    "direccion":"Cañada de Natividad Salgado 5 Puerta 8 \nSevilla, 02881",
+    "lat":15.450989,
+    "lon":-90.679814,
+    "categorias":[
+      "postres",
+      "vegetariana"
+    ],
+    "createdAt":"2025-01-10T14:14:54.920642"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c588",
+    "nombre":"Puig & Asociados S.A.",
+    "direccion":"Alameda Seve Oliver 3 Piso 1 \nZamora, 09879",
+    "lat":14.06823,
+    "lon":-89.847861,
+    "categorias":[
+      "mexicana",
+      "asiatica"
+    ],
+    "createdAt":"2025-02-28T16:12:26.522894"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c589",
+    "nombre":"Grupo Piña S.L.N.E",
+    "direccion":"Pasadizo África Manzano 74\nMelilla, 23532",
+    "lat":14.122148,
+    "lon":-88.208464,
+    "categorias":[
+      "vegetariana",
+      "rapida"
+    ],
+    "createdAt":"2025-04-14T14:10:16.627922"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c58a",
+    "nombre":"Suministros Española S.Coop.",
+    "direccion":"C. de Jesús Navarro 300 Piso 2 \nLeón, 07671",
+    "lat":15.654179,
+    "lon":-90.864898,
+    "categorias":[
+      "italiana",
+      "mexicana"
+    ],
+    "createdAt":"2025-02-01T04:03:51.576662"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c58b",
+    "nombre":"Desarrollo YF S.L.N.E",
+    "direccion":"Camino Gustavo Portillo 46 Apt. 34 \nLas Palmas, 02801",
+    "lat":14.960058,
+    "lon":-89.164672,
+    "categorias":[
+      "mexicana",
+      "italiana"
+    ],
+    "createdAt":"2025-02-24T11:52:35.565277"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c58c",
+    "nombre":"Distribuciones RUGX S.L.",
+    "direccion":"Rambla Ámbar Gibert 2\nCádiz, 15731",
+    "lat":14.462201,
+    "lon":-88.302629,
+    "categorias":[
+      "rapida",
+      "asiatica"
+    ],
+    "createdAt":"2025-01-10T06:32:38.481541"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c58d",
+    "nombre":"Mercader y asociados S.L.L.",
+    "direccion":"Camino de María Jesús Viana 31\nJaén, 44322",
+    "lat":17.765951,
+    "lon":-91.374351,
+    "categorias":[
+      "mexicana",
+      "postres"
+    ],
+    "createdAt":"2025-01-05T03:58:30.259191"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c58e",
+    "nombre":"Manufacturas Inteligentes S.A.U",
+    "direccion":"Avenida de Úrsula Castillo 993 Piso 8 \nCantabria, 06026",
+    "lat":17.165142,
+    "lon":-90.705346,
+    "categorias":[
+      "vegetariana",
+      "postres"
+    ],
+    "createdAt":"2025-01-01T09:24:54.116724"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c58f",
+    "nombre":"Compañía Jódar y asociados S.Com.",
+    "direccion":"Glorieta de Adalberto Aguado 220\nAlmería, 51991",
+    "lat":14.404505,
+    "lon":-88.501739,
+    "categorias":[
+      "rapida",
+      "mexicana"
+    ],
+    "createdAt":"2025-02-18T21:32:24.094816"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c590",
+    "nombre":"Despacho Globales S.L.L.",
+    "direccion":"C. Francisco Jose Viana 2\nMurcia, 03256",
+    "lat":14.690241,
+    "lon":-89.791671,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-04-20T13:22:45.442984"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c591",
+    "nombre":"Jose Antonio Duarte Villena S.A.",
+    "direccion":"Pasaje Amor Conesa 9 Puerta 9 \nLas Palmas, 28472",
+    "lat":17.796288,
+    "lon":-90.408069,
+    "categorias":[
+      "vegetariana",
+      "italiana"
+    ],
+    "createdAt":"2025-04-16T23:32:17.273510"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c592",
+    "nombre":"Barba y asociados S.Com.",
+    "direccion":"Plaza de Aureliano Conesa 27\nAsturias, 30792",
+    "lat":16.703007,
+    "lon":-91.368889,
+    "categorias":[
+      "italiana",
+      "rapida"
+    ],
+    "createdAt":"2025-01-16T18:13:30.573029"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c593",
+    "nombre":"Victor Moll Guillén S.L.",
+    "direccion":"Avenida Jovita Roman 2 Puerta 6 \nCuenca, 51920",
+    "lat":15.811256,
+    "lon":-91.698785,
+    "categorias":[
+      "mexicana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-03-25T12:46:38.782971"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c594",
+    "nombre":"Consultoría Vendrell S.Com.",
+    "direccion":"Plaza Serafina Marquez 39\nPalencia, 18467",
+    "lat":15.606436,
+    "lon":-89.24701,
+    "categorias":[
+      "vegetariana",
+      "italiana"
+    ],
+    "createdAt":"2025-02-18T05:55:34.897827"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c595",
+    "nombre":"Salvador Cal Ramón S.L.L.",
+    "direccion":"Pasaje de Angelino Ayala 1\nAlmería, 32143",
+    "lat":14.213092,
+    "lon":-89.39683,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-01-27T23:53:11.833748"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c596",
+    "nombre":"Querol y Montoya S.Com.",
+    "direccion":"Alameda de Almudena Dalmau 503\nSegovia, 16051",
+    "lat":16.816231,
+    "lon":-89.943501,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-03-05T21:04:40.647651"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c597",
+    "nombre":"Bello y asociados S.Com.",
+    "direccion":"Vial de Nayara Toro 15\nCantabria, 23562",
+    "lat":16.6525,
+    "lon":-90.83154,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-03-13T14:23:33.307697"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c598",
+    "nombre":"Consultoría Iberia S.L.",
+    "direccion":"Plaza Eloísa Campoy 99\nToledo, 18915",
+    "lat":16.665652,
+    "lon":-89.155016,
+    "categorias":[
+      "asiatica",
+      "mexicana"
+    ],
+    "createdAt":"2025-03-03T02:47:43.428451"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c599",
+    "nombre":"Burgos y Gibert S.L.",
+    "direccion":"Alameda Violeta Vizcaíno 8\nTarragona, 06604",
+    "lat":14.495902,
+    "lon":-90.280476,
+    "categorias":[
+      "mexicana",
+      "postres"
+    ],
+    "createdAt":"2025-01-07T14:59:45.894778"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c59a",
+    "nombre":"Distribuciones WN S.Com.",
+    "direccion":"C. de Jaime Vélez 45 Piso 4 \nMurcia, 08437",
+    "lat":17.770929,
+    "lon":-91.768974,
+    "categorias":[
+      "asiatica",
+      "vegetariana"
+    ],
+    "createdAt":"2025-03-14T11:13:32.857468"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c59b",
+    "nombre":"Duran y Fernandez S.L.N.E",
+    "direccion":"Pasaje Joan Portillo 67\nValladolid, 03347",
+    "lat":16.558323,
+    "lon":-91.646702,
+    "categorias":[
+      "asiatica",
+      "mexicana"
+    ],
+    "createdAt":"2025-03-02T13:44:37.526311"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c59c",
+    "nombre":"Bartolomé & Asociados S.L.N.E",
+    "direccion":"Glorieta María Manuela Roldán 226 Piso 4 \nCórdoba, 51794",
+    "lat":15.607948,
+    "lon":-88.629641,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-04-08T14:05:36.486712"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c59d",
+    "nombre":"Samper y asociados S.L.N.E",
+    "direccion":"Vial Segismundo Roman 597\nLugo, 21912",
+    "lat":16.464095,
+    "lon":-91.536422,
+    "categorias":[
+      "asiatica",
+      "mexicana"
+    ],
+    "createdAt":"2025-02-21T23:05:18.091379"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c59e",
+    "nombre":"Inmobiliaria EDZS S.Coop.",
+    "direccion":"Cuesta Clementina Ibáñez 57 Apt. 15 \nLa Rioja, 35494",
+    "lat":14.118229,
+    "lon":-91.344382,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-04-11T18:13:48.240965"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c59f",
+    "nombre":"Distribuciones Sales & Asociados S.Com.",
+    "direccion":"Vial Leocadio Andres 13\nBarcelona, 11623",
+    "lat":17.080664,
+    "lon":-89.293269,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-04-14T00:31:56.311802"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5a0",
+    "nombre":"Finanzas Sacristán & Asociados S.L.N.E",
+    "direccion":"Calle Eustaquio Huerta 541\nSoria, 46244",
+    "lat":13.728313,
+    "lon":-89.459002,
+    "categorias":[
+      "vegetariana",
+      "mexicana"
+    ],
+    "createdAt":"2025-03-10T21:36:58.796744"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5a1",
+    "nombre":"Hermanos Arjona S.A.",
+    "direccion":"Camino Gabino Vergara 52 Puerta 5 \nBaleares, 01399",
+    "lat":16.385418,
+    "lon":-91.270968,
+    "categorias":[
+      "italiana",
+      "mexicana"
+    ],
+    "createdAt":"2025-03-11T00:59:52.025948"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5a2",
+    "nombre":"Sanmiguel y Anguita S.L.",
+    "direccion":"Avenida Marina Ribas 593 Puerta 7 \nLleida, 28145",
+    "lat":16.746561,
+    "lon":-92.254324,
+    "categorias":[
+      "mexicana",
+      "postres"
+    ],
+    "createdAt":"2025-01-17T17:19:16.286595"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5a3",
+    "nombre":"Leandro Porras Sainz S.Coop.",
+    "direccion":"Via María Dolores Torralba 321 Piso 9 \nTeruel, 04641",
+    "lat":14.656208,
+    "lon":-89.177181,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-02-17T06:34:36.686888"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5a4",
+    "nombre":"Servicios Manso & Asociados S.Coop.",
+    "direccion":"Pasaje de Roldán Farré 88 Apt. 11 \nCastellón, 24973",
+    "lat":16.292249,
+    "lon":-90.096635,
+    "categorias":[
+      "asiatica",
+      "mexicana"
+    ],
+    "createdAt":"2025-02-03T16:59:02.111582"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5a5",
+    "nombre":"Logística Piñeiro S.Coop.",
+    "direccion":"Cañada de Jacobo Carretero 92 Apt. 56 \nCantabria, 28521",
+    "lat":15.886838,
+    "lon":-90.794749,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-02-28T11:05:02.448733"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5a6",
+    "nombre":"Industrias Globales S.L.",
+    "direccion":"Plaza de Rita Villar 86 Piso 0 \nBarcelona, 19859",
+    "lat":14.224319,
+    "lon":-89.652754,
+    "categorias":[
+      "asiatica",
+      "italiana"
+    ],
+    "createdAt":"2025-04-06T01:46:38.217211"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5a7",
+    "nombre":"Familia Vilaplana S.Coop.",
+    "direccion":"Plaza de Calixta Izquierdo 315\nLeón, 46638",
+    "lat":14.804467,
+    "lon":-91.401606,
+    "categorias":[
+      "italiana",
+      "asiatica"
+    ],
+    "createdAt":"2025-01-13T09:18:21.816648"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5a8",
+    "nombre":"Cámara y asociados S.Com.",
+    "direccion":"Ronda Celestino Haro 50 Apt. 63 \nCáceres, 13711",
+    "lat":15.847436,
+    "lon":-89.385457,
+    "categorias":[
+      "postres",
+      "vegetariana"
+    ],
+    "createdAt":"2025-02-15T06:36:21.206114"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5a9",
+    "nombre":"Talleres GTPP S.A.T.",
+    "direccion":"C. de Cipriano Quirós 81\nZamora, 39927",
+    "lat":16.786238,
+    "lon":-89.482959,
+    "categorias":[
+      "italiana",
+      "rapida"
+    ],
+    "createdAt":"2025-02-21T05:50:00.430152"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5aa",
+    "nombre":"Restauración UZ S.L.",
+    "direccion":"Ronda Gracia Parra 170 Piso 3 \nBaleares, 10047",
+    "lat":17.592858,
+    "lon":-89.957396,
+    "categorias":[
+      "rapida",
+      "asiatica"
+    ],
+    "createdAt":"2025-02-22T20:17:56.945672"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5ab",
+    "nombre":"Compañía Pablo S.A.",
+    "direccion":"Vial de Álvaro Gilabert 7\nCastellón, 17560",
+    "lat":13.767906,
+    "lon":-88.293302,
+    "categorias":[
+      "postres",
+      "rapida"
+    ],
+    "createdAt":"2025-04-23T15:44:01.188360"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5ac",
+    "nombre":"Infraestructuras Cobos S.Com.",
+    "direccion":"Pasadizo de Rafaela Losa 6\nMurcia, 23844",
+    "lat":14.912749,
+    "lon":-88.838983,
+    "categorias":[
+      "vegetariana",
+      "postres"
+    ],
+    "createdAt":"2025-04-19T03:00:46.370475"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5ad",
+    "nombre":"Desarrollo VG S.Com.",
+    "direccion":"Plaza de Curro León 99\nLugo, 07634",
+    "lat":14.940052,
+    "lon":-88.888805,
+    "categorias":[
+      "mexicana",
+      "italiana"
+    ],
+    "createdAt":"2025-04-17T02:36:39.359187"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5ae",
+    "nombre":"Zorrilla & Asociados S.L.",
+    "direccion":"Acceso Débora Velasco 23\nToledo, 44608",
+    "lat":15.207361,
+    "lon":-89.57068,
+    "categorias":[
+      "asiatica",
+      "mexicana"
+    ],
+    "createdAt":"2025-03-09T14:08:21.307476"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5af",
+    "nombre":"Valls y Rivero S.L.N.E",
+    "direccion":"Alameda Borja Berrocal 26\nPalencia, 48981",
+    "lat":15.600626,
+    "lon":-89.558259,
+    "categorias":[
+      "rapida",
+      "vegetariana"
+    ],
+    "createdAt":"2025-01-08T17:48:20.606956"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5b0",
+    "nombre":"Despacho Tello S.Coop.",
+    "direccion":"Camino Nayara Garcia 86 Apt. 26 \nCáceres, 29551",
+    "lat":13.823481,
+    "lon":-91.45434,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-03-19T05:05:50.776714"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5b1",
+    "nombre":"Venceslás Galán Amorós S.A.",
+    "direccion":"Vial de Amalia Leal 14\nAsturias, 46877",
+    "lat":14.512698,
+    "lon":-88.32414,
+    "categorias":[
+      "asiatica",
+      "rapida"
+    ],
+    "createdAt":"2025-03-28T17:12:10.461658"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5b2",
+    "nombre":"Cifuentes y Toro S.Com.",
+    "direccion":"Pasadizo de Toño Anaya 56 Apt. 31 \nLa Coruña, 27334",
+    "lat":15.841818,
+    "lon":-90.813096,
+    "categorias":[
+      "mexicana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-02-15T23:39:45.239766"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5b3",
+    "nombre":"Grupo Valcárcel S.A.",
+    "direccion":"Glorieta Lucía Pacheco 10 Apt. 48 \nLa Coruña, 37341",
+    "lat":16.675894,
+    "lon":-91.755575,
+    "categorias":[
+      "asiatica",
+      "mexicana"
+    ],
+    "createdAt":"2025-01-09T09:15:06.890381"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5b4",
+    "nombre":"Nevado y Pastor S.L.",
+    "direccion":"Vial Tito Duarte 67 Apt. 54 \nBurgos, 13113",
+    "lat":16.306203,
+    "lon":-89.954119,
+    "categorias":[
+      "mexicana",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-26T04:04:04.348034"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5b5",
+    "nombre":"Grupo Tirado S.Coop.",
+    "direccion":"Calle de Remigio Villanueva 67\nTeruel, 24364",
+    "lat":15.572938,
+    "lon":-88.568269,
+    "categorias":[
+      "rapida",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-03T09:56:27.164188"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5b6",
+    "nombre":"Grupo García S.L.",
+    "direccion":"Alameda Renato Maza 1\nLeón, 21020",
+    "lat":17.236285,
+    "lon":-89.52135,
+    "categorias":[
+      "italiana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-01-13T09:19:55.532936"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5b7",
+    "nombre":"Valbuena y Monreal S.L.",
+    "direccion":"Callejón de Piedad Cabezas 15\nGuipúzcoa, 33235",
+    "lat":13.793715,
+    "lon":-91.623579,
+    "categorias":[
+      "asiatica",
+      "postres"
+    ],
+    "createdAt":"2025-04-24T14:41:36.010265"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5b8",
+    "nombre":"Inversiones Peñalver & Asociados S.L.N.E",
+    "direccion":"Paseo de Nayara Carretero 364\nTeruel, 05046",
+    "lat":15.233937,
+    "lon":-89.915218,
+    "categorias":[
+      "postres",
+      "rapida"
+    ],
+    "createdAt":"2025-04-11T06:06:26.660068"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5b9",
+    "nombre":"Servicios del Levante S.C.P",
+    "direccion":"Ronda Aureliano Ayuso 32\nSoria, 22686",
+    "lat":17.652203,
+    "lon":-89.028742,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-04-17T06:12:53.865104"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5ba",
+    "nombre":"Ureña y Crespo S.Com.",
+    "direccion":"Callejón Valentina Cabanillas 28 Piso 8 \nMurcia, 40999",
+    "lat":14.223844,
+    "lon":-92.252098,
+    "categorias":[
+      "rapida",
+      "postres"
+    ],
+    "createdAt":"2025-03-24T09:38:21.639714"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5bb",
+    "nombre":"Palomo y Piña S.A.",
+    "direccion":"Avenida Regina Girón 88\nLugo, 19039",
+    "lat":17.295499,
+    "lon":-89.280591,
+    "categorias":[
+      "asiatica",
+      "rapida"
+    ],
+    "createdAt":"2025-04-26T07:47:04.383821"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5bc",
+    "nombre":"Farmaceútica Verdejo S.Coop.",
+    "direccion":"Callejón de Mario Sánchez 9\nOurense, 20436",
+    "lat":16.315376,
+    "lon":-89.153606,
+    "categorias":[
+      "rapida",
+      "postres"
+    ],
+    "createdAt":"2025-03-19T02:10:03.852160"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5bd",
+    "nombre":"Comercial Integrales S.A.",
+    "direccion":"Pasadizo Martirio Guardiola 85 Apt. 42 \nAlicante, 39449",
+    "lat":14.614931,
+    "lon":-91.079576,
+    "categorias":[
+      "rapida",
+      "postres"
+    ],
+    "createdAt":"2025-01-26T11:21:38.697989"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5be",
+    "nombre":"Compañía JKHO S.Coop.",
+    "direccion":"Glorieta de Eusebia Cañizares 31\nLa Rioja, 27420",
+    "lat":14.083843,
+    "lon":-91.078844,
+    "categorias":[
+      "asiatica",
+      "postres"
+    ],
+    "createdAt":"2025-03-23T11:11:58.439631"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5bf",
+    "nombre":"Hnos Morera S.Com.",
+    "direccion":"Pasadizo Carlota Muñoz 21\nTeruel, 08799",
+    "lat":16.482013,
+    "lon":-90.542895,
+    "categorias":[
+      "mexicana",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-16T09:25:51.176577"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5c0",
+    "nombre":"Familia Palmer S.A.",
+    "direccion":"Acceso de Salud Izquierdo 87\nSegovia, 18888",
+    "lat":16.092658,
+    "lon":-89.330948,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-01-08T13:18:14.623338"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5c1",
+    "nombre":"Hermanos Pallarès S.A.",
+    "direccion":"Ronda de Anunciación Vicente 1 Puerta 4 \nBurgos, 25947",
+    "lat":14.647555,
+    "lon":-90.926709,
+    "categorias":[
+      "vegetariana",
+      "mexicana"
+    ],
+    "createdAt":"2025-01-04T05:39:36.321441"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5c2",
+    "nombre":"Promociones MTZ S.L.N.E",
+    "direccion":"Via Edu Diego 51\nNavarra, 35945",
+    "lat":17.211717,
+    "lon":-90.737352,
+    "categorias":[
+      "mexicana",
+      "italiana"
+    ],
+    "createdAt":"2025-02-17T11:11:35.628168"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5c3",
+    "nombre":"Soluciones del Noroeste S.Coop.",
+    "direccion":"Callejón de Zoraida Nuñez 697 Apt. 65 \nAlicante, 04720",
+    "lat":15.033543,
+    "lon":-89.979484,
+    "categorias":[
+      "rapida",
+      "mexicana"
+    ],
+    "createdAt":"2025-02-10T11:46:21.379632"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5c4",
+    "nombre":"Instalaciones Luz S.L.L.",
+    "direccion":"Paseo Chus Buendía 70\nSalamanca, 45930",
+    "lat":17.420932,
+    "lon":-90.488759,
+    "categorias":[
+      "mexicana",
+      "asiatica"
+    ],
+    "createdAt":"2025-01-29T18:38:54.848382"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5c5",
+    "nombre":"Roura & Asociados S.A.",
+    "direccion":"Plaza Vanesa Aguilar 57 Puerta 9 \nBaleares, 10840",
+    "lat":16.474324,
+    "lon":-90.600008,
+    "categorias":[
+      "asiatica",
+      "postres"
+    ],
+    "createdAt":"2025-04-27T07:55:31.248534"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5c6",
+    "nombre":"Vila y Pomares S.A.",
+    "direccion":"Pasaje de Ángela Buendía 65 Piso 2 \nOurense, 45812",
+    "lat":14.754401,
+    "lon":-90.919051,
+    "categorias":[
+      "asiatica",
+      "vegetariana"
+    ],
+    "createdAt":"2025-02-03T04:43:17.997096"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5c7",
+    "nombre":"Mendizábal y Real S.L.L.",
+    "direccion":"Pasaje de Arcelia Perelló 609 Apt. 98 \nPalencia, 21504",
+    "lat":13.729613,
+    "lon":-90.019041,
+    "categorias":[
+      "vegetariana",
+      "postres"
+    ],
+    "createdAt":"2025-03-11T17:37:17.069285"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5c8",
+    "nombre":"Hermanos Peñalver S.A.",
+    "direccion":"C. de María Cristina Cañete 11\nBadajoz, 24868",
+    "lat":16.930288,
+    "lon":-91.127414,
+    "categorias":[
+      "vegetariana",
+      "rapida"
+    ],
+    "createdAt":"2025-04-10T16:35:31.642450"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5c9",
+    "nombre":"Hnos Aragonés S.A.U",
+    "direccion":"Ronda de Alondra Tenorio 79\nToledo, 01347",
+    "lat":16.89265,
+    "lon":-89.623035,
+    "categorias":[
+      "mexicana",
+      "italiana"
+    ],
+    "createdAt":"2025-02-19T16:11:07.022309"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5ca",
+    "nombre":"Compañía Barbero & Asociados S.L.U.",
+    "direccion":"Vial de Teófila Roura 32\nVizcaya, 35549",
+    "lat":15.626714,
+    "lon":-90.194454,
+    "categorias":[
+      "mexicana",
+      "italiana"
+    ],
+    "createdAt":"2025-02-09T14:25:34.421085"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5cb",
+    "nombre":"Manufacturas XWNZ S.L.",
+    "direccion":"Calle Balduino Guijarro 17 Piso 8 \nSegovia, 15370",
+    "lat":13.919659,
+    "lon":-89.272844,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-04-23T16:24:50.045052"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5cc",
+    "nombre":"Inmobiliaria Hidalgo y asociados S.C.P",
+    "direccion":"Glorieta de Samu Navas 39\nToledo, 14435",
+    "lat":16.414965,
+    "lon":-89.281165,
+    "categorias":[
+      "rapida",
+      "mexicana"
+    ],
+    "createdAt":"2025-02-13T22:28:12.145825"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5cd",
+    "nombre":"Infraestructuras Española S.L.N.E",
+    "direccion":"Ronda de Julio César Cadenas 15\nGirona, 14860",
+    "lat":15.258695,
+    "lon":-90.758223,
+    "categorias":[
+      "postres",
+      "mexicana"
+    ],
+    "createdAt":"2025-03-24T12:40:57.274105"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5ce",
+    "nombre":"Hermanos Marquez S.A.",
+    "direccion":"Via de Leoncio Vidal 96 Apt. 72 \nLa Rioja, 50970",
+    "lat":15.138788,
+    "lon":-90.698862,
+    "categorias":[
+      "rapida",
+      "mexicana"
+    ],
+    "createdAt":"2025-04-25T18:23:19.223114"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5cf",
+    "nombre":"Industrias Castellana S.A.",
+    "direccion":"Avenida de Ciriaco Sánchez 61\nTeruel, 13583",
+    "lat":16.651247,
+    "lon":-88.909998,
+    "categorias":[
+      "mexicana",
+      "postres"
+    ],
+    "createdAt":"2025-02-20T03:45:34.144443"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5d0",
+    "nombre":"Jose Antonio Capdevila Tomás S.L.",
+    "direccion":"Alameda Eligio Calatayud 426\nÁlava, 38865",
+    "lat":14.868832,
+    "lon":-90.229532,
+    "categorias":[
+      "vegetariana",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-10T16:41:46.058451"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5d1",
+    "nombre":"Hnos Falcón S.L.N.E",
+    "direccion":"Urbanización Ciro Alvarez 99 Piso 8 \nCantabria, 22817",
+    "lat":14.576691,
+    "lon":-88.283277,
+    "categorias":[
+      "rapida",
+      "postres"
+    ],
+    "createdAt":"2025-03-11T13:37:11.848588"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5d2",
+    "nombre":"Despacho AP S.L.N.E",
+    "direccion":"Alameda de Josep Solana 70 Piso 2 \nHuesca, 28104",
+    "lat":13.720862,
+    "lon":-91.906243,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-01-25T08:42:12.181468"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5d3",
+    "nombre":"Bayo y asociados S.A.",
+    "direccion":"Avenida Maura Bertrán 34\nMurcia, 06166",
+    "lat":16.173153,
+    "lon":-91.060309,
+    "categorias":[
+      "asiatica",
+      "rapida"
+    ],
+    "createdAt":"2025-02-06T10:25:42.929481"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5d4",
+    "nombre":"Comercial Hierro & Asociados S.Coop.",
+    "direccion":"Callejón de Toribio Iglesias 62\nOurense, 10127",
+    "lat":15.324955,
+    "lon":-88.322236,
+    "categorias":[
+      "italiana",
+      "rapida"
+    ],
+    "createdAt":"2025-04-12T21:25:58.777503"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5d5",
+    "nombre":"Candelario Español Agustí S.Coop.",
+    "direccion":"Cañada Ileana Villaverde 82\nBarcelona, 42784",
+    "lat":14.552278,
+    "lon":-88.778683,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-02-28T22:24:55.901840"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5d6",
+    "nombre":"Logística Fernández & Asociados S.L.",
+    "direccion":"Calle de Rosa Leon 1 Puerta 9 \nValencia, 28718",
+    "lat":14.969121,
+    "lon":-88.511704,
+    "categorias":[
+      "rapida",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-05T08:43:12.127804"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5d7",
+    "nombre":"Ariel Batalla Soriano S.A.",
+    "direccion":"Pasaje de Marisol Luna 10\nGuadalajara, 17616",
+    "lat":17.334929,
+    "lon":-89.725406,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-03-22T08:01:22.054474"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5d8",
+    "nombre":"Compañía Iberia S.A.",
+    "direccion":"Urbanización Fabricio Salamanca 54 Puerta 5 \nCeuta, 34007",
+    "lat":15.807802,
+    "lon":-89.782445,
+    "categorias":[
+      "postres",
+      "vegetariana"
+    ],
+    "createdAt":"2025-03-09T13:44:08.316739"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5d9",
+    "nombre":"Inversiones del Sur S.Com.",
+    "direccion":"Glorieta Eutropio Montaña 87 Puerta 4 \nCáceres, 42976",
+    "lat":14.074599,
+    "lon":-88.233949,
+    "categorias":[
+      "italiana",
+      "asiatica"
+    ],
+    "createdAt":"2025-02-18T01:48:03.505987"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5da",
+    "nombre":"Bernardino Pinto Maestre S.Coop.",
+    "direccion":"Cañada Plinio Macías 72 Apt. 55 \nMálaga, 24806",
+    "lat":16.450671,
+    "lon":-89.842173,
+    "categorias":[
+      "rapida",
+      "italiana"
+    ],
+    "createdAt":"2025-04-15T10:22:00.532733"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5db",
+    "nombre":"Vall y asociados S.L.U.",
+    "direccion":"Callejón Agustina Segovia 64\nCastellón, 47152",
+    "lat":17.465674,
+    "lon":-91.100194,
+    "categorias":[
+      "postres",
+      "vegetariana"
+    ],
+    "createdAt":"2025-03-13T00:57:31.946348"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5dc",
+    "nombre":"Consultoría LC S.Coop.",
+    "direccion":"Rambla Cruz Roldán 8\nBarcelona, 24361",
+    "lat":16.317853,
+    "lon":-90.007169,
+    "categorias":[
+      "italiana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-04-21T13:11:34.423209"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5dd",
+    "nombre":"Hilario Cabo Andrés S.A.",
+    "direccion":"Vial Ulises Moreno 28\nAlmería, 30135",
+    "lat":15.135285,
+    "lon":-90.287546,
+    "categorias":[
+      "mexicana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-02-03T03:14:24.027562"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5de",
+    "nombre":"Carlos Agustí Palacio S.C.P",
+    "direccion":"Urbanización de Salud Baena 9\nLa Rioja, 27907",
+    "lat":15.415714,
+    "lon":-88.358399,
+    "categorias":[
+      "vegetariana",
+      "postres"
+    ],
+    "createdAt":"2025-02-08T16:00:05.174762"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5df",
+    "nombre":"Logística GX S.Com.",
+    "direccion":"Glorieta Rogelio Llorente 69\nOurense, 45558",
+    "lat":17.448083,
+    "lon":-89.049622,
+    "categorias":[
+      "postres",
+      "mexicana"
+    ],
+    "createdAt":"2025-02-06T08:18:21.370753"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5e0",
+    "nombre":"Clemente & Asociados S.Com.",
+    "direccion":"Glorieta de Eutimio Pedrosa 29\nCádiz, 44331",
+    "lat":15.912204,
+    "lon":-89.150735,
+    "categorias":[
+      "italiana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-03-17T05:24:53.961726"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5e1",
+    "nombre":"Hnos Tapia S.A.",
+    "direccion":"Glorieta Ágata Castelló 7 Piso 2 \nBarcelona, 23285",
+    "lat":14.236149,
+    "lon":-88.432122,
+    "categorias":[
+      "italiana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-04-03T06:17:14.043862"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5e2",
+    "nombre":"Aitor Baños Cerdá S.L.",
+    "direccion":"Cuesta Pío Villena 322 Piso 2 \nMálaga, 22025",
+    "lat":15.294863,
+    "lon":-90.886441,
+    "categorias":[
+      "italiana",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-11T07:01:40.354954"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5e3",
+    "nombre":"Comercializadora del Sur S.Coop.",
+    "direccion":"Glorieta de Leandro Baena 93 Piso 7 \nLeón, 30859",
+    "lat":14.484668,
+    "lon":-90.076487,
+    "categorias":[
+      "vegetariana",
+      "rapida"
+    ],
+    "createdAt":"2025-04-17T04:34:10.640998"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5e4",
+    "nombre":"Tecnologías Ibérica S.Com.",
+    "direccion":"Paseo Paulina Ariza 86 Apt. 99 \nSoria, 27486",
+    "lat":15.514425,
+    "lon":-89.866998,
+    "categorias":[
+      "asiatica",
+      "postres"
+    ],
+    "createdAt":"2025-03-28T16:03:54.916711"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5e5",
+    "nombre":"Familia Estrada S.A.",
+    "direccion":"Rambla Haroldo Llabrés 970 Apt. 40 \nBurgos, 25644",
+    "lat":14.669197,
+    "lon":-90.475252,
+    "categorias":[
+      "mexicana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-01-17T10:57:58.172631"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5e6",
+    "nombre":"Guardiola y asociados S.Com.",
+    "direccion":"Cuesta de Valerio Marcos 59 Apt. 88 \nJaén, 34777",
+    "lat":15.154517,
+    "lon":-89.814456,
+    "categorias":[
+      "rapida",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-30T13:19:21.103070"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5e7",
+    "nombre":"Familia Ferrando S.A.",
+    "direccion":"Cañada de Lourdes Zurita 8 Piso 5 \nGuipúzcoa, 47501",
+    "lat":15.007537,
+    "lon":-91.42128,
+    "categorias":[
+      "italiana",
+      "rapida"
+    ],
+    "createdAt":"2025-01-27T21:43:23.906539"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5e8",
+    "nombre":"Farmaceútica QVB S.A.",
+    "direccion":"Glorieta de Luz Tamarit 30\nMelilla, 32061",
+    "lat":14.346745,
+    "lon":-90.974183,
+    "categorias":[
+      "mexicana",
+      "postres"
+    ],
+    "createdAt":"2025-01-07T13:24:57.676982"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5e9",
+    "nombre":"Industrias Globales S.L.N.E",
+    "direccion":"C. Horacio Ariño 39 Puerta 5 \nLleida, 18784",
+    "lat":13.884823,
+    "lon":-88.771648,
+    "categorias":[
+      "postres",
+      "asiatica"
+    ],
+    "createdAt":"2025-01-27T04:03:07.053839"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5ea",
+    "nombre":"Alsina y Manzanares S.Coop.",
+    "direccion":"Vial de Magdalena Carbonell 15\nAlicante, 46065",
+    "lat":17.097663,
+    "lon":-90.701269,
+    "categorias":[
+      "rapida",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-11T00:32:30.812032"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5eb",
+    "nombre":"Berto Vicente Villanueva S.A.",
+    "direccion":"Urbanización Cesar Carro 72 Piso 3 \nLeón, 17573",
+    "lat":17.604438,
+    "lon":-91.621862,
+    "categorias":[
+      "mexicana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-02-15T17:12:11.062121"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5ec",
+    "nombre":"Fuente y Pina S.Com.",
+    "direccion":"Paseo de Jenny Cabeza 87\nSalamanca, 09022",
+    "lat":16.875567,
+    "lon":-91.348003,
+    "categorias":[
+      "vegetariana",
+      "asiatica"
+    ],
+    "createdAt":"2025-02-25T02:01:13.219625"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5ed",
+    "nombre":"Montero & Asociados S.A.T.",
+    "direccion":"Cuesta Andrés Marin 214 Puerta 5 \nBarcelona, 16568",
+    "lat":15.363372,
+    "lon":-90.947096,
+    "categorias":[
+      "italiana",
+      "mexicana"
+    ],
+    "createdAt":"2025-01-28T16:38:28.698615"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5ee",
+    "nombre":"Industrias Españolas S.Com.",
+    "direccion":"Urbanización Víctor Checa 17\nBaleares, 48543",
+    "lat":17.063016,
+    "lon":-89.48728,
+    "categorias":[
+      "rapida",
+      "italiana"
+    ],
+    "createdAt":"2025-03-13T11:33:12.891720"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5ef",
+    "nombre":"Boix & Asociados S.A.",
+    "direccion":"Vial de Elena Aramburu 4 Piso 9 \nSanta Cruz de Tenerife, 02320",
+    "lat":17.072433,
+    "lon":-90.231944,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-04-22T19:16:44.563479"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5f0",
+    "nombre":"Flor Aragón Ferrándiz S.Coop.",
+    "direccion":"Urbanización de Nayara Abril 80\nSanta Cruz de Tenerife, 33570",
+    "lat":15.836563,
+    "lon":-92.115472,
+    "categorias":[
+      "vegetariana",
+      "postres"
+    ],
+    "createdAt":"2025-01-08T17:57:28.780209"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5f1",
+    "nombre":"Juan y Coloma S.L.",
+    "direccion":"Vial Eva María Osorio 99 Puerta 1 \nCantabria, 13444",
+    "lat":15.420391,
+    "lon":-91.107977,
+    "categorias":[
+      "rapida",
+      "italiana"
+    ],
+    "createdAt":"2025-04-02T09:20:32.515545"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5f2",
+    "nombre":"Soluciones QC S.L.",
+    "direccion":"Urbanización de Teodora Bernal 5 Apt. 21 \nCastellón, 04268",
+    "lat":17.409312,
+    "lon":-89.891638,
+    "categorias":[
+      "italiana",
+      "mexicana"
+    ],
+    "createdAt":"2025-04-27T03:00:35.974194"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5f3",
+    "nombre":"Hermanos Baquero S.A.",
+    "direccion":"Cuesta de Caridad Cadenas 48\nBarcelona, 15364",
+    "lat":15.655452,
+    "lon":-91.235816,
+    "categorias":[
+      "vegetariana",
+      "rapida"
+    ],
+    "createdAt":"2025-02-02T05:22:48.797125"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5f4",
+    "nombre":"Jerez & Asociados S.L.",
+    "direccion":"Cuesta de Asunción Canals 22\nCáceres, 32137",
+    "lat":15.464282,
+    "lon":-88.552575,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-02-18T12:48:48.771518"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5f5",
+    "nombre":"Nevado y Río S.L.L.",
+    "direccion":"Avenida Jennifer Iñiguez 7 Apt. 50 \nAsturias, 19599",
+    "lat":15.44672,
+    "lon":-91.536323,
+    "categorias":[
+      "italiana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-01-22T21:23:43.443525"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5f6",
+    "nombre":"Hnos Carreño S.A.",
+    "direccion":"C. Lorenzo Montoya 38\nAlbacete, 45754",
+    "lat":13.881547,
+    "lon":-89.206309,
+    "categorias":[
+      "postres",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-08T22:50:25.305857"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5f7",
+    "nombre":"Desarrollo NGF S.Coop.",
+    "direccion":"Pasaje Abilio Cornejo 88 Puerta 8 \nZaragoza, 12995",
+    "lat":17.046206,
+    "lon":-90.639252,
+    "categorias":[
+      "vegetariana",
+      "postres"
+    ],
+    "createdAt":"2025-03-15T02:11:39.125939"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5f8",
+    "nombre":"Industrias Pintor S.L.N.E",
+    "direccion":"Glorieta de Roxana Martí 25\nAlmería, 08980",
+    "lat":15.960121,
+    "lon":-90.624021,
+    "categorias":[
+      "asiatica",
+      "italiana"
+    ],
+    "createdAt":"2025-01-23T11:07:28.005573"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5f9",
+    "nombre":"Valle & Asociados S.L.",
+    "direccion":"Acceso de Eloy Laguna 499 Apt. 87 \nCastellón, 01860",
+    "lat":16.317742,
+    "lon":-88.597943,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-03-30T18:58:59.168345"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5fa",
+    "nombre":"Bravo y Yáñez S.L.N.E",
+    "direccion":"Rambla Susana Bastida 26\nPalencia, 44939",
+    "lat":16.930098,
+    "lon":-91.058939,
+    "categorias":[
+      "vegetariana",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-23T15:46:03.709400"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5fb",
+    "nombre":"Hnos Carrasco S.A.",
+    "direccion":"Callejón de Silvio Soria 18 Apt. 49 \nBadajoz, 29558",
+    "lat":16.168929,
+    "lon":-91.419085,
+    "categorias":[
+      "vegetariana",
+      "mexicana"
+    ],
+    "createdAt":"2025-04-04T09:40:09.066452"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5fc",
+    "nombre":"Inversiones Ibéricos S.Com.",
+    "direccion":"Paseo Néstor Sabater 27 Piso 7 \nGuadalajara, 22912",
+    "lat":17.164879,
+    "lon":-90.594466,
+    "categorias":[
+      "postres",
+      "rapida"
+    ],
+    "createdAt":"2025-02-17T22:12:43.676826"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5fd",
+    "nombre":"Iriarte y Gutiérrez S.A.",
+    "direccion":"Urbanización de Custodio Cabrero 78 Apt. 99 \nTeruel, 43289",
+    "lat":13.705205,
+    "lon":-88.958818,
+    "categorias":[
+      "asiatica",
+      "vegetariana"
+    ],
+    "createdAt":"2025-03-15T19:14:23.740275"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5fe",
+    "nombre":"Francisco y Infante S.A.",
+    "direccion":"Plaza Odalis Luna 124 Apt. 52 \nLeón, 51275",
+    "lat":14.994179,
+    "lon":-92.298673,
+    "categorias":[
+      "italiana",
+      "mexicana"
+    ],
+    "createdAt":"2025-01-25T05:47:35.800571"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c5ff",
+    "nombre":"Comercial IQ S.L.N.E",
+    "direccion":"Cañada Montserrat Tejada 6\nGuipúzcoa, 37507",
+    "lat":16.103096,
+    "lon":-89.079842,
+    "categorias":[
+      "rapida",
+      "mexicana"
+    ],
+    "createdAt":"2025-04-21T21:28:08.851880"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c600",
+    "nombre":"Talavera y Guillén S.Coop.",
+    "direccion":"Camino de Victor Manuel Egea 918\nSegovia, 36005",
+    "lat":16.938256,
+    "lon":-92.252597,
+    "categorias":[
+      "italiana",
+      "postres"
+    ],
+    "createdAt":"2025-01-30T06:30:29.174730"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c601",
+    "nombre":"Jose Antonio Mancebo Granados S.A.",
+    "direccion":"Glorieta de Leoncio Prado 886 Piso 8 \nAlmería, 07100",
+    "lat":14.455874,
+    "lon":-91.093356,
+    "categorias":[
+      "vegetariana",
+      "rapida"
+    ],
+    "createdAt":"2025-04-26T00:43:58.983575"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c602",
+    "nombre":"Despacho Cañas y asociados S.A.",
+    "direccion":"Pasaje de Saturnina Crespi 1 Puerta 5 \nLa Rioja, 51993",
+    "lat":14.088175,
+    "lon":-90.077893,
+    "categorias":[
+      "vegetariana",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-06T03:57:35.769518"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c603",
+    "nombre":"Hnos Llano S.A.T.",
+    "direccion":"Via Calista Somoza 86\nCáceres, 38460",
+    "lat":13.924676,
+    "lon":-89.234538,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-02-01T10:21:10.588575"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c604",
+    "nombre":"Comercializadora Baños y asociados S.A.T.",
+    "direccion":"Cuesta Luciana Barbero 73\nCádiz, 04385",
+    "lat":16.150723,
+    "lon":-89.8089,
+    "categorias":[
+      "asiatica",
+      "italiana"
+    ],
+    "createdAt":"2025-04-24T16:51:27.678358"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c605",
+    "nombre":"Corbacho y Valdés S.A.",
+    "direccion":"Camino Cándida Romeu 64 Apt. 71 \nBurgos, 16262",
+    "lat":14.47774,
+    "lon":-90.655195,
+    "categorias":[
+      "postres",
+      "vegetariana"
+    ],
+    "createdAt":"2025-03-11T01:46:26.764632"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c606",
+    "nombre":"Cañas y asociados S.L.",
+    "direccion":"Alameda de Vicente Raya 311 Apt. 05 \nGuadalajara, 45983",
+    "lat":13.848346,
+    "lon":-90.839409,
+    "categorias":[
+      "italiana",
+      "asiatica"
+    ],
+    "createdAt":"2025-02-07T00:06:13.879505"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c607",
+    "nombre":"Comercial Integrales S.A.",
+    "direccion":"Pasadizo Álvaro Cruz 80\nPontevedra, 48036",
+    "lat":14.089044,
+    "lon":-88.966786,
+    "categorias":[
+      "asiatica",
+      "mexicana"
+    ],
+    "createdAt":"2025-01-26T02:07:56.371833"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c608",
+    "nombre":"Echeverría y asociados S.A.",
+    "direccion":"Urbanización Javiera Contreras 290 Puerta 7 \nAlicante, 26986",
+    "lat":17.116588,
+    "lon":-89.936808,
+    "categorias":[
+      "asiatica",
+      "rapida"
+    ],
+    "createdAt":"2025-01-24T12:50:45.332060"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c609",
+    "nombre":"Consultoría WQQC S.Coop.",
+    "direccion":"Callejón Eulalia Mínguez 31 Puerta 4 \nZaragoza, 15295",
+    "lat":14.034084,
+    "lon":-90.524292,
+    "categorias":[
+      "postres",
+      "rapida"
+    ],
+    "createdAt":"2025-03-30T14:30:38.034038"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c60a",
+    "nombre":"Comercial Pedro y asociados S.L.",
+    "direccion":"Via Carla Serra 42\nGuadalajara, 07675",
+    "lat":14.014892,
+    "lon":-92.268074,
+    "categorias":[
+      "italiana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-03-08T06:49:11.966505"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c60b",
+    "nombre":"Azorin y asociados S.L.N.E",
+    "direccion":"Callejón de Amancio Pascual 938\nCiudad, 13882",
+    "lat":16.202311,
+    "lon":-91.694827,
+    "categorias":[
+      "mexicana",
+      "postres"
+    ],
+    "createdAt":"2025-01-25T13:19:02.824461"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c60c",
+    "nombre":"Hernando Gras Morera S.L.",
+    "direccion":"Camino Bernarda Nicolás 581 Puerta 8 \nGuadalajara, 41307",
+    "lat":16.779976,
+    "lon":-88.414327,
+    "categorias":[
+      "asiatica",
+      "vegetariana"
+    ],
+    "createdAt":"2025-02-09T01:55:03.185280"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c60d",
+    "nombre":"Nogués y asociados S.Coop.",
+    "direccion":"Rambla Óscar Flor 1 Piso 3 \nGirona, 31356",
+    "lat":13.770818,
+    "lon":-88.534523,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-01-05T11:03:17.195035"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c60e",
+    "nombre":"Benito Marin Checa S.Coop.",
+    "direccion":"Vial Estela Manzanares 77 Apt. 37 \nVizcaya, 40480",
+    "lat":16.160667,
+    "lon":-91.95671,
+    "categorias":[
+      "asiatica",
+      "mexicana"
+    ],
+    "createdAt":"2025-03-08T21:39:53.935838"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c60f",
+    "nombre":"Banca Privada Integrales S.L.",
+    "direccion":"Plaza Heliodoro Santiago 50\nPalencia, 07428",
+    "lat":14.550896,
+    "lon":-91.723962,
+    "categorias":[
+      "mexicana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-03-28T04:51:24.181290"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c610",
+    "nombre":"Alfonso Mármol Sarabia S.Coop.",
+    "direccion":"Plaza Anna Azorin 27\nLas Palmas, 11887",
+    "lat":16.063599,
+    "lon":-91.630907,
+    "categorias":[
+      "mexicana",
+      "italiana"
+    ],
+    "createdAt":"2025-04-06T22:04:34.628216"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c611",
+    "nombre":"Logística Pedrero S.Coop.",
+    "direccion":"Urbanización Eustaquio Castellanos 21\nTarragona, 34216",
+    "lat":16.006404,
+    "lon":-88.437749,
+    "categorias":[
+      "vegetariana",
+      "italiana"
+    ],
+    "createdAt":"2025-03-01T09:45:19.144184"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c612",
+    "nombre":"Servicios STA S.L.",
+    "direccion":"Rambla de María Jesús Iriarte 7 Puerta 5 \nHuelva, 46728",
+    "lat":16.429474,
+    "lon":-88.430956,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-04-03T23:29:23.396937"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c613",
+    "nombre":"Verdugo y Benavent S.L.",
+    "direccion":"Plaza de Prudencio Girona 57\nSanta Cruz de Tenerife, 14903",
+    "lat":17.278407,
+    "lon":-92.000529,
+    "categorias":[
+      "rapida",
+      "postres"
+    ],
+    "createdAt":"2025-01-05T20:42:59.856795"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c614",
+    "nombre":"Comercial LEP S.A.U",
+    "direccion":"Avenida de Ruperta Gomez 307 Piso 7 \nSevilla, 22125",
+    "lat":15.189183,
+    "lon":-90.021748,
+    "categorias":[
+      "rapida",
+      "mexicana"
+    ],
+    "createdAt":"2025-04-09T20:30:43.318675"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c615",
+    "nombre":"Restauración Globales S.Com.",
+    "direccion":"Rambla Alicia Cabello 32 Piso 3 \nTarragona, 11571",
+    "lat":16.637027,
+    "lon":-91.254965,
+    "categorias":[
+      "italiana",
+      "rapida"
+    ],
+    "createdAt":"2025-03-27T09:34:42.649741"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c616",
+    "nombre":"Flores y Álvarez S.L.N.E",
+    "direccion":"C. Chita Barroso 48 Piso 8 \nZamora, 33256",
+    "lat":15.337649,
+    "lon":-92.019998,
+    "categorias":[
+      "mexicana",
+      "rapida"
+    ],
+    "createdAt":"2025-03-01T06:14:11.658453"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c617",
+    "nombre":"Hermanos Corral S.Com.",
+    "direccion":"Alameda Wilfredo Galán 34\nValladolid, 08633",
+    "lat":16.934872,
+    "lon":-89.263309,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-04-20T07:19:57.490510"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c618",
+    "nombre":"Manufacturas del Sur S.Coop.",
+    "direccion":"Callejón de Manu Alvarado 6\nPalencia, 38289",
+    "lat":16.363633,
+    "lon":-88.540915,
+    "categorias":[
+      "rapida",
+      "asiatica"
+    ],
+    "createdAt":"2025-02-27T00:12:08.340681"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c619",
+    "nombre":"Hotel Blanch y asociados S.A.",
+    "direccion":"Plaza Irene Solano 66\nAlicante, 27597",
+    "lat":17.786228,
+    "lon":-90.780547,
+    "categorias":[
+      "italiana",
+      "rapida"
+    ],
+    "createdAt":"2025-02-13T04:41:29.340594"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c61a",
+    "nombre":"Alimentación Iberia S.L.",
+    "direccion":"Paseo de Marianela Quirós 42\nAlmería, 20873",
+    "lat":15.003804,
+    "lon":-89.537526,
+    "categorias":[
+      "mexicana",
+      "italiana"
+    ],
+    "createdAt":"2025-01-16T21:24:13.772166"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c61b",
+    "nombre":"Hermanos Cuesta S.A.",
+    "direccion":"Callejón Faustino Vélez 68 Apt. 13 \nLugo, 10031",
+    "lat":14.183307,
+    "lon":-90.530351,
+    "categorias":[
+      "postres",
+      "italiana"
+    ],
+    "createdAt":"2025-02-04T13:40:03.120961"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c61c",
+    "nombre":"Grupo Chico S.L.",
+    "direccion":"Alameda de Espiridión Barón 732 Puerta 4 \nSevilla, 25576",
+    "lat":15.922374,
+    "lon":-88.613209,
+    "categorias":[
+      "postres",
+      "mexicana"
+    ],
+    "createdAt":"2025-02-05T19:41:40.106861"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c61d",
+    "nombre":"Banca Privada EM S.L.N.E",
+    "direccion":"Alameda de Zaida Vizcaíno 85 Apt. 78 \nBarcelona, 01842",
+    "lat":17.240266,
+    "lon":-89.387132,
+    "categorias":[
+      "mexicana",
+      "asiatica"
+    ],
+    "createdAt":"2025-03-02T21:30:34.867757"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c61e",
+    "nombre":"Talleres Uría S.Coop.",
+    "direccion":"Camino José Antonio Vizcaíno 8\nBurgos, 27351",
+    "lat":17.159401,
+    "lon":-88.502723,
+    "categorias":[
+      "mexicana",
+      "italiana"
+    ],
+    "createdAt":"2025-02-28T18:42:07.412019"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c61f",
+    "nombre":"Familia Salvà S.Com.",
+    "direccion":"Acceso de Leopoldo Sanmiguel 40 Puerta 1 \nSanta Cruz de Tenerife, 46503",
+    "lat":14.44665,
+    "lon":-90.835573,
+    "categorias":[
+      "postres",
+      "asiatica"
+    ],
+    "createdAt":"2025-04-09T17:31:34.697189"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c620",
+    "nombre":"Minería JWL S.L.",
+    "direccion":"Rambla Amancio Alfonso 19\nTarragona, 40038",
+    "lat":16.852843,
+    "lon":-89.918682,
+    "categorias":[
+      "mexicana",
+      "italiana"
+    ],
+    "createdAt":"2025-02-23T20:21:41.881760"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c621",
+    "nombre":"Hermanos Salazar S.Com.",
+    "direccion":"Calle de Celia Valle 40 Piso 2 \nZaragoza, 38573",
+    "lat":15.459683,
+    "lon":-91.682362,
+    "categorias":[
+      "italiana",
+      "vegetariana"
+    ],
+    "createdAt":"2025-01-24T23:04:02.982210"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c622",
+    "nombre":"Compañía Alegria y asociados S.Coop.",
+    "direccion":"Ronda de Faustino Barba 973\nCeuta, 10098",
+    "lat":17.045576,
+    "lon":-90.902541,
+    "categorias":[
+      "rapida",
+      "asiatica"
+    ],
+    "createdAt":"2025-01-20T15:13:37.246400"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c623",
+    "nombre":"Posada & Asociados S.L.",
+    "direccion":"Ronda de Remedios Vara 35\nMálaga, 07258",
+    "lat":16.398232,
+    "lon":-90.229929,
+    "categorias":[
+      "asiatica",
+      "italiana"
+    ],
+    "createdAt":"2025-02-10T02:12:53.700700"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c624",
+    "nombre":"Tecnologías Melero & Asociados S.L.",
+    "direccion":"Acceso de Matías Gárate 135 Piso 5 \nAsturias, 13375",
+    "lat":17.167856,
+    "lon":-88.68596,
+    "categorias":[
+      "postres",
+      "rapida"
+    ],
+    "createdAt":"2025-04-03T15:12:35.438769"
+  },
+  {
+    "_id":"680ef9ad5a7f860efab8c625",
+    "nombre":"Hnos Lledó S.L.N.E",
+    "direccion":"Camino de Eligio Acedo 32\nVizcaya, 10469",
+    "lat":16.29639,
+    "lon":-89.960046,
+    "categorias":[
+      "rapida",
+      "asiatica"
+    ],
+    "createdAt":"2025-01-28T11:11:45.555726"
+  }
+]
