@@ -31,9 +31,14 @@ def generar_usuarios(n=8000):
         usuarios.append({
             "_id": generar_object_id(),
             "nombre": fake.name(),
-            "email": fake.email(),
-            "lat": round(random.uniform(LAT_MIN, LAT_MAX), 6),
-            "lon": round(random.uniform(LON_MIN, LON_MAX), 6),
+            "email": fake.unique.email(),
+            "ubicacion": {
+                "type": "Point",
+                "coordinates": [
+                    round(random.uniform(LON_MIN, LON_MAX), 6),
+                    round(random.uniform(LAT_MIN, LAT_MAX), 6)
+                ]
+            },
             "fechaRegistro": fake.date_time_this_decade().isoformat(),
             "edad": random.randint(18, 70),
             "genero": random.choice(["masculino", "femenino"])
