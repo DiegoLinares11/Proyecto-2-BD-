@@ -53,8 +53,13 @@ def generar_restaurantes(n=300):
             "_id": generar_object_id(),
             "nombre": fake.company(),
             "direccion": fake.address(),
-            "lat": round(random.uniform(LAT_MIN, LAT_MAX), 6),
-            "lon": round(random.uniform(LON_MIN, LON_MAX), 6),
+            "ubicacion": {
+                "type": "Point",
+                "coordinates": [
+                    round(random.uniform(LON_MIN, LON_MAX), 6),
+                    round(random.uniform(LAT_MIN, LAT_MAX), 6)
+                ]
+            },
             "categorias": random.sample(CATEGORIAS, 2),
             "createdAt": fake.date_time_this_year().isoformat()
         })

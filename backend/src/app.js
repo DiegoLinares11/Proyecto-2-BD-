@@ -8,8 +8,9 @@ const { connectDB } = require('./config/db');
 const PORT = process.env.PORT || 5000;
 
 const userRoutes = require('./routes/userRoutes');
-
-
+const restaurantRoutes = require('./routes/restaurantRoutes');
+const menuRoutes = require('./routes/menuRoutes');
+const promotionRoutes = require('./routes/promotionRoutes');
 
 // Cargar variables de entorno
 dotenv.config();
@@ -31,8 +32,9 @@ mongoose.set('strictQuery', true);
 
 // Rutas
 app.use('/api/users', userRoutes);
-//app.use('/api/restaurants', require('./routes/restaurantRoutes'));
-//app.use('/api/menu-items', require('./routes/menuItemRoutes'));
+app.use('/api/restaurants', restaurantRoutes);
+app.use('/api/menu', menuRoutes);
+app.use('/api/promotions', promotionRoutes);
 //app.use('/api/orders', require('./routes/orderRoutes'));
 //app.use('/api/reviews', require('./routes/reviewRoutes'));
 //app.use('/api/files', require('./routes/fileRoutes'));
