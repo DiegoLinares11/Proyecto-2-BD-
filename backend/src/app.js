@@ -13,6 +13,8 @@ const menuRoutes = require('./routes/menuRoutes');
 const promotionRoutes = require('./routes/promotionRoutes');
 const orderRoutes = require('./routes/orderRoutes');
 const reviewRoutes = require('./routes/reviewRoutes');
+const paymentRoutes = require('./routes/paymentRoutes');
+
 // Cargar variables de entorno
 dotenv.config();
 
@@ -38,7 +40,7 @@ app.use('/api/menu', menuRoutes);
 app.use('/api/promotions', promotionRoutes);
 app.use('/api/orders', orderRoutes);
 app.use('/api/reviews', reviewRoutes);
-//app.use('/api/files', require('./routes/fileRoutes'));
+app.use('/api/payments', paymentRoutes);
 
 // Ruta de prueba
 app.get('/', (req, res) => {

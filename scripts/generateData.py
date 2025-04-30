@@ -81,7 +81,7 @@ def generar_menu(restaurantes, n_por_restaurante=(5, 10)):
             })
     pd.DataFrame(menu).to_json(f"{directorio_salida}/menu.json", orient="records", force_ascii=False, indent=2)
 
-# 4. Generar Promociones (ajustar referencias)
+# 4. Generar Promociones 
 def generar_promociones(menu, n=3000):
     promociones = []
     for _ in range(n):
@@ -99,7 +99,7 @@ def generar_promociones(menu, n=3000):
         promociones.append(promo)
     pd.DataFrame(promociones).to_json(f"{directorio_salida}/promociones.json", orient="records", force_ascii=False, indent=2)
 
-# 5. Generar Órdenes (ajustar referencias)
+# 5. Generar Órdenes 
 def generar_ordenes(n=52000, usuarios=[], restaurantes=[], menu=[]):
     ordenes = []
     for _ in range(n):
@@ -142,7 +142,7 @@ def generar_ordenes(n=52000, usuarios=[], restaurantes=[], menu=[]):
 
     pd.DataFrame(ordenes).to_json(f"{directorio_salida}/ordenes.json", orient="records", force_ascii=False, indent=2)
 
-# 6. Generar Reseñas (ajustar referencias)
+# 6. Generar Reseñas
 def generar_reseñas(ordenes, n=10000):
     reseñas = []
     for _ in range(n):
@@ -157,7 +157,7 @@ def generar_reseñas(ordenes, n=10000):
         })
     pd.DataFrame(reseñas).to_json(f"{directorio_salida}/reseñas.json", orient="records", force_ascii=False, indent=2)
 
-# 7. Generar Pagos (ajustar referencias)
+# 7. Generar Pagos
 def generar_pagos(ordenes):
     pagos = []
     for orden in ordenes:
@@ -169,7 +169,7 @@ def generar_pagos(ordenes):
             "metodoPago": random.choice(["tarjeta de crédito", "efectivo", "tarjeta de débito"]),
             "estado": "completado",
             "fecha": (datetime.fromisoformat(orden["fechaPedido"]) + timedelta(minutes=10)).isoformat()
-        })
+        })  
     pd.DataFrame(pagos).to_json(f"{directorio_salida}/pagos.json", orient="records", force_ascii=False, indent=2)
 
 # Ejecutar generación de datos
