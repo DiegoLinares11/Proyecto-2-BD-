@@ -11,7 +11,8 @@ const userRoutes = require('./routes/userRoutes');
 const restaurantRoutes = require('./routes/restaurantRoutes');
 const menuRoutes = require('./routes/menuRoutes');
 const promotionRoutes = require('./routes/promotionRoutes');
-
+const orderRoutes = require('./routes/orderRoutes');
+const reviewRoutes = require('./routes/reviewRoutes');
 // Cargar variables de entorno
 dotenv.config();
 
@@ -35,8 +36,8 @@ app.use('/api/users', userRoutes);
 app.use('/api/restaurants', restaurantRoutes);
 app.use('/api/menu', menuRoutes);
 app.use('/api/promotions', promotionRoutes);
-//app.use('/api/orders', require('./routes/orderRoutes'));
-//app.use('/api/reviews', require('./routes/reviewRoutes'));
+app.use('/api/orders', orderRoutes);
+app.use('/api/reviews', reviewRoutes);
 //app.use('/api/files', require('./routes/fileRoutes'));
 
 // Ruta de prueba
