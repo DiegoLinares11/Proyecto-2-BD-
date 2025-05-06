@@ -3,6 +3,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const morgan = require('morgan');
 const dotenv = require('dotenv');
+dotenv.config();
 //const errorHandler = require('./utils/errorHandler');
 const { connectDB } = require('./config/db');
 const PORT = process.env.PORT || 5000;
@@ -14,9 +15,7 @@ const promotionRoutes = require('./routes/promotionRoutes');
 const orderRoutes = require('./routes/orderRoutes');
 const reviewRoutes = require('./routes/reviewRoutes');
 const paymentRoutes = require('./routes/paymentRoutes');
-
-// Cargar variables de entorno
-dotenv.config();
+const fileRoutes = require('./routes/fileRoutes');
 
 // Inicializar app
 const app = express();
@@ -41,6 +40,9 @@ app.use('/api/promotions', promotionRoutes);
 app.use('/api/orders', orderRoutes);
 app.use('/api/reviews', reviewRoutes);
 app.use('/api/payments', paymentRoutes);
+app.use('/api/files', fileRoutes);
+app.use('/api/aggregations', require('./routes/aggregationRoutes'));
+
 
 // Ruta de prueba
 app.get('/', (req, res) => {
