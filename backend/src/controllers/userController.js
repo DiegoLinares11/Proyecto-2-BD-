@@ -80,32 +80,48 @@ const obtenerUsuarios = async (req, res) => {
 
 // Actualizar múltiples usuarios
 const actualizarUsuariosBulk = async (req, res) => {
-  const updates = req.body;
   try {
-    const result = await Promise.all(
-      updates.map((update) => {
-        return User.updateOne(
-          { _id: update._id },
-          { $set: { [update.campo]: update.nuevoValor } }
-        );
-      })
-    );
-    res.status(200).json({ result });
+    const updates = req.body; // Cada objeto debe tener al menos "email"
+    const resultados = [];
+
+    for (const update of updates) {
+      const { email, ...resto } = update;
+      const result = await User.updateOne({ email }, { $set: resto });
+
+      // Usamos lean() para obtener el documento plano
+      const updatedUser = await User.findOne({ email }).lean();
+
+      // Almacenamos los resultados con el email y los nuevos valores
+      resultados.push({
+        email,
+        matched: result.matchedCount,
+        modified: result.modifiedCount,
+        updatedData: updatedUser // Ahora es un objeto plano
+      });
+    }
+
+    res.json({ resultados });
   } catch (error) {
-    res.status(500).json({ error: 'Error actualizando usuarios', message: error.message });
+    res.status(500).json({ error: error.message });
   }
 };
 
+
+
+
+
 // Eliminar múltiples usuarios
 const eliminarUsuariosBulk = async (req, res) => {
-  const { ids } = req.body;
   try {
-    const result = await User.deleteMany({ _id: { $in: ids } });
-    res.status(200).json({ result });
+    const usuarios = req.body;
+    const emails = usuarios.map(u => u.email);
+    const result = await User.deleteMany({ email: { $in: emails } });
+    res.json({ result });
   } catch (error) {
-    res.status(500).json({ error: 'Error eliminando usuarios', message: error.message });
+    res.status(500).json({ error: error.message });
   }
 };
+
 
 // Obtener todos los usuarios
 const getUsers = async (req, res) => {
