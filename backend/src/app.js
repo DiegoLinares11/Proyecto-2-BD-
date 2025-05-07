@@ -61,6 +61,7 @@ app.use((req, res, next) => {
 
 app.listen(PORT, () => {
   console.log(`Servidor corriendo en puerto ${PORT} en modo ${process.env.NODE_ENV}`);
+  require('./menu'); //esto ya sirve para el menu.
 });
 
 
